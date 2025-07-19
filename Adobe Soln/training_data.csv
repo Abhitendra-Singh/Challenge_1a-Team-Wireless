@@ -1,0 +1,1085 @@
+text,font_size,y0,page_num,char_len,word_count,is_upper,starts_with_num,label
+Application form for grant of LTC advance,11.67,722.8979300000001,0,41,7,0,0,Title
+Name of the Government Servant,9.74,697.2557624,0,30,5,0,0,None
+Designation,9.74,679.1993892,0,11,1,0,0,None
+Date of entering the Central Government,9.74,661.0845496000001,0,39,6,0,0,None
+Service,9.74,643.505652,0,7,1,0,0,None
+PAY + SI + NPA,9.74,625.3908124000001,0,14,5,1,0,None
+5. Whether permanent or temporary,9.74,604.3331640000001,0,33,5,0,1,None
+Home Town as recorded in the Service Book,9.74,589.1513888000002,0,41,8,0,0,None
+Whether wife / husband is employed and if,9.74,576.9708888000002,0,41,8,0,0,None
+so whether entitled to LTC,9.74,559.3919912000002,0,26,5,0,0,None
+Whether the concession is to be availed for,9.74,541.2674072000002,0,43,8,0,0,None
+visiting home town and if so block for which,9.74,523.6885096000002,0,44,9,0,0,None
+LTC is to be availed.,9.74,506.05114560000015,0,21,5,0,0,None
+(a) If the concession is to visit anywhere in,9.74,487.99477240000016,0,45,9,0,0,None
+"India, the place to be visited.",9.74,470.35740840000017,0,31,6,0,0,None
+(b) Block for which to be availed.,9.74,452.77851080000016,0,34,7,0,0,None
+Single,9.74,434.6539268000002,0,6,1,0,0,None
+rail,9.74,434.6539268000002,0,4,1,0,0,None
+fare/bus,9.74,434.6539268000002,0,8,1,0,0,None
+fare,9.74,434.6539268000002,0,4,1,0,0,None
+from,9.74,434.6539268000002,0,4,1,0,0,None
+the,9.74,434.6539268000002,0,3,1,0,0,None
+10.,9.74,414.0737540000002,0,3,1,0,1,None
+headquarters to home town/place of visit by,9.74,417.0750292000002,0,43,7,0,0,None
+shortest route.,9.74,399.4961316000002,0,15,2,0,0,None
+Persons in respect of whom LTC is proposed to be availed.,9.74,381.31308120000017,0,57,11,0,0,None
+Name,9.74,366.18977240000015,0,4,1,0,0,None
+Age,9.74,366.18977240000015,0,3,1,0,0,None
+Relationship,9.74,366.18977240000015,0,12,1,0,0,None
+S.No,9.74,366.18977240000015,0,4,1,0,0,None
+Amount of advance required.,9.74,269.11605960000014,0,27,4,0,0,None
+Rs.,9.74,269.11605960000014,0,3,1,0,0,None
+11.,9.74,331.63613000000015,0,3,1,0,1,None
+12.,9.74,263.24018640000014,0,3,1,0,1,None
+I declare that the particulars furnished above are true and correct to the best of my knowledge.,9.74,233.41257800000017,0,96,17,0,0,None
+undertake to produce the tickets for the outward journey within ten days of receipt of the advance.,9.74,221.70955360000016,0,99,17,0,0,None
+In the event of cancellation of the journey or if I fail to produce the tickets within ten days of receipt of,9.74,198.18657200000015,0,109,22,0,0,None
+"advance, I undertake to refund the entire advance in one lump sum.",9.74,186.42508120000016,0,66,12,0,0,None
+Date,9.74,151.26728600000015,0,4,1,0,0,None
+Signature of Government Servant.,9.74,139.50579520000016,0,32,4,0,0,None
+Overview,24.0,575.692,0,8,1,0,0,None
+Foundation Level Extensions,24.0,520.468,0,27,3,0,0,None
+Version 1.0,12.0,396.226,0,11,2,0,0,None
+International Software Testing Qualifications Board,18.0,306.284,0,51,5,0,0,None
+Copyright Notice,9.96,128.63827999999998,0,16,2,0,0,None
+"This document may be copied in its entirety, or extracts made, if the source is acknowledged.",9.96,117.11456,0,93,16,0,0,None
+Overview,12.0,737.0759999999999,1,8,1,0,0,None
+Foundation Level Extension – Agile Tester,9.96,722.3986799999999,1,41,6,0,0,None
+International,9.96,742.29828,1,13,1,0,0,None
+Software Testing,9.96,730.77828,1,16,2,0,0,None
+Qualifications Board,9.96,719.25828,1,20,2,0,0,None
+Copyright © International Software Testing Qualifications Board (hereinafter called ISTQB®).,9.96,660.55828,1,92,10,0,0,None
+Version 2014,9.96,61.9224399999999,1,12,2,0,0,None
+Page 2 of 12,9.96,61.9224399999999,1,12,4,0,0,None
+"May 31, 2014",9.96,61.9224399999999,1,12,3,0,0,None
+© International Software Testing Qualifications Board,6.0,48.438,1,53,6,0,0,None
+Overview,12.0,737.0759999999999,2,8,1,0,0,None
+Foundation Level Extension – Agile Tester,9.96,722.3986799999999,2,41,6,0,0,None
+International,9.96,742.29828,2,13,1,0,0,None
+Software Testing,9.96,730.77828,2,16,2,0,0,None
+Qualifications Board,9.96,719.25828,2,20,2,0,0,None
+Revision History,15.96,665.31628,2,16,2,0,0,H1
+Version,9.96,641.4782799999999,2,7,1,0,0,None
+0.1,9.96,629.1182799999999,2,3,1,0,1,None
+0.2,9.96,616.87828,2,3,1,0,1,None
+0.3,9.96,604.63828,2,3,1,0,1,None
+0.7,9.96,592.39828,2,3,1,0,1,None
+0.8,9.96,580.15828,2,3,1,0,1,None
+1.0,9.96,567.91828,2,3,1,0,1,None
+Date,9.96,641.4782799999999,2,4,1,0,0,None
+18 JUNE 2013,9.96,629.1182799999999,2,12,3,1,1,None
+23 JULY 2013,9.96,616.87828,2,12,3,1,1,None
+6 NOV 2013,9.96,604.63828,2,10,3,1,1,None
+11 DEC 2013,9.96,592.39828,2,11,3,1,1,None
+20 DEC 2013,9.96,580.15828,2,11,3,1,1,None
+31 MAY 2014,9.96,567.91828,2,11,3,1,1,None
+Remarks,9.96,641.4782799999999,2,7,1,0,0,None
+Initial version,9.96,629.1182799999999,2,15,2,0,0,None
+WG reviewed and confirmed,9.96,616.87828,2,25,4,0,0,None
+amended population and diagram,9.96,604.63828,2,30,4,0,0,None
+Amended Business Outcomes and Chapters matching,9.96,592.39828,2,47,6,0,0,None
+Working group updates on 0.7,9.96,580.15828,2,28,5,0,0,None
+GA release for Agile Extension,9.96,567.91828,2,30,5,0,0,None
+Version 2014,9.96,61.9182,2,12,2,0,0,None
+Page 3 of 12,9.96,61.9182,2,12,4,0,0,None
+"May 31, 2014",9.96,61.9182,2,12,3,0,0,None
+© International Software Testing Qualifications Board,6.0,48.438,2,53,6,0,0,None
+Overview,12.0,737.0759999999999,3,8,1,0,0,None
+Foundation Level Extension – Agile Tester,9.96,722.3986799999999,3,41,6,0,0,None
+International,9.96,742.29828,3,13,1,0,0,None
+Software Testing,9.96,730.77828,3,16,2,0,0,None
+Qualifications Board,9.96,719.25828,3,20,2,0,0,None
+Table of Contents,15.96,665.31628,3,17,3,0,0,H1
+Revision History,9.96,636.19828,3,16,2,0,0,None
+..........................................................................................................................................,9.96,636.19828,3,138,1,0,0,None
+Table of Contents,9.96,618.7981599999999,3,17,3,0,0,H1
+........................................................................................................................................,9.96,618.7981599999999,3,136,1,0,0,None
+Introduction to the Foundation Level Extensions,9.96,601.27852,3,47,6,0,0,None
+............................................................................,9.96,601.27852,3,76,1,0,0,None
+Introduction to Foundation Level Agile Tester Extension,9.96,583.75888,3,55,7,0,0,None
+...............................................................,9.96,583.75888,3,63,1,0,0,None
+2.1,9.96,566.11972,3,3,1,0,1,None
+Intended Audience,9.96,566.11972,3,17,2,0,0,None
+2.2 Career Paths for Testers,9.96,554.596,3,28,5,0,1,None
+Learning Objectives,9.96,543.16192,3,19,2,0,0,None
+2.3,9.96,543.16192,3,3,1,0,1,None
+Entry Requirements,9.96,531.6382,3,18,2,0,0,None
+2.4,9.96,531.6382,3,3,1,0,1,None
+Structure and Course Duration,9.96,520.11448,3,29,4,0,0,None
+2.5,9.96,520.11448,3,3,1,0,1,None
+Keeping It Current,9.96,508.59076,3,18,3,0,0,None
+2.6,9.96,508.59076,3,3,1,0,1,None
+.....................................................................................................................,9.96,566.11972,3,117,1,0,0,None
+............................................................................................................,9.96,554.596,3,108,1,0,0,None
+...................................................................................................................,9.96,543.16192,3,115,1,0,0,None
+...................................................................................................................,9.96,531.6382,3,115,1,0,0,None
+...................................................................................................,9.96,520.11448,3,99,1,0,0,None
+......................................................................................................................,9.96,508.59076,3,118,1,0,0,None
+3. Overview of the Foundation Level Extension – Agile Tester Syllabus,9.96,491.09103999999996,3,69,11,0,1,None
+.........................................,9.96,491.19064,3,41,1,0,0,None
+3.1,9.96,473.55147999999997,3,3,1,0,1,None
+3.2 Content,9.96,462.14727999999997,3,11,2,0,1,None
+Business Outcomes,9.96,473.55147999999997,3,17,2,0,0,None
+.................................................................................................................,9.96,473.55147999999997,3,113,1,0,0,None
+....................................................................................................................................,9.96,462.14727999999997,3,132,1,0,0,None
+4. References,9.96,444.74715999999995,3,13,2,0,1,None
+..........................................................................................................................................,9.96,444.74715999999995,3,138,1,0,0,None
+Trademarks,9.96,427.10799999999995,3,10,1,0,0,None
+4.1,9.96,427.10799999999995,3,3,1,0,1,None
+4.2 Documents and Web Sites,9.96,415.5842799999999,3,27,5,0,1,None
+.............................................................................................................................,9.96,427.10799999999995,3,125,1,0,0,None
+.......................................................................................................,9.96,415.5842799999999,3,103,1,0,0,None
+Version 2014,9.96,61.894719999999914,3,12,2,0,0,None
+Page 4 of 12,9.96,61.894719999999914,3,12,4,0,0,None
+"May 31, 2014",9.96,61.894719999999914,3,12,3,0,0,None
+© International Software Testing Qualifications Board,6.0,48.438,3,53,6,0,0,None
+Overview,12.0,737.0759999999999,4,8,1,0,0,None
+Foundation Level Extension – Agile Tester,9.96,722.3986799999999,4,41,6,0,0,None
+International,9.96,742.29828,4,13,1,0,0,None
+Software Testing,9.96,730.77828,4,16,2,0,0,None
+Qualifications Board,9.96,719.25828,4,20,2,0,0,None
+Acknowledgements,15.96,665.31628,4,16,1,0,0,H1
+This document was produced by a team from the International Software Testing Qualifications Board,9.96,636.07828,4,97,14,0,0,None
+Foundation Level Working Group.,9.96,624.67408,4,31,4,0,0,None
+The Agile Extension team thanks the review team and the National Boards for their suggestions and input.,9.96,601.6366,4,104,17,0,0,None
+"At the time the Foundation Level Agile Extension Syllabus was completed, the Agile Extension Working",9.96,578.5991200000001,4,100,15,0,0,None
+"Group had the following membership: Rex Black (Chair), Bertrand Cornanguer (Vice Chair), Gerry",9.96,567.1949200000001,4,94,13,0,0,None
+"Coleman (Learning Objectives Lead), Debra Friedenberg (Exam Lead), Alon Linetzki (Business Outcomes",9.96,555.6712000000001,4,99,12,0,0,None
+"and Marketing Lead), Tauhida Parveen (Editor), and Leo van der Aalst (Development Lead).",9.96,544.1176000000002,4,88,13,0,0,None
+"Authors: Rex Black, Anders Claesson, Gerry Coleman, Bertrand Cornanguer, Istvan Forgacs, Alon",9.96,521.0801200000002,4,93,12,0,0,None
+"Linetzki, Tilo Linz, Leo van der Aalst, Marie Walsh, and Stephan Weber.",9.96,509.5564000000002,4,71,12,0,0,None
+"Internal Reviewers: Mette Bruhn-Pedersen, Christopher Clements, Alessandro Collino, Debra",9.96,486.63844000000023,4,89,9,0,0,None
+"Friedenberg, Kari Kakkonen, Beata Karpinska, Sammy Kolluru, Jennifer Leger, Thomas Mueller, Tuula",9.96,475.1147200000002,4,97,12,0,0,None
+"Pääkkönen, Meile Posthuma, Gabor Puhalla, Lloyd Roden, Marko Rytkönen, Monika Stoecklein-Olsen,",9.96,463.5910000000002,4,95,11,0,0,None
+"Robert Treffny, Chris Van Bael, and Erik van Veenendaal.",9.96,452.06728000000015,4,56,9,0,0,None
+"The team thanks also the following persons, from the National Boards and the Agile expert community,",9.96,429.14932000000016,4,100,16,0,0,None
+"who participated in reviewing, commenting, and balloting of the Foundation Agile Extension Syllabus: Dani",9.96,417.62556,4,105,14,0,0,None
+"Almog, Richard Berns, Stephen Bird, Monika Bögge, Afeng Chai, Josephine Crawford, Tibor Csöndes,",9.96,406.10184,4,96,13,0,0,None
+"Huba Demeter, Arnaud Foucal, Cyril Fumery, Kobi Halperin, Inga Hansen, Hanne Hinz, Jidong Hu, Phill",9.96,394.5582,4,99,15,0,0,None
+"Isles, Shirley Itah, Martin Klonk, Kjell Lauren, Igal Levi, Rik Marselis, Johan Meivert, Armin Metzger, Peter",9.96,383.03448,4,109,16,0,0,None
+"Morgan, Ninna Morin, Ingvar Nordstrom, Chris O’Dea, Klaus Olsen, Ismo Paukamainen, Nathalie Phung,",9.96,371.41115999999994,4,98,13,0,0,None
+"Helmut Pichler, Salvatore Reale, Stuart Reid, Hans Rombouts, Petri Säilynoja, Soile Sainio, Lars-Erik",9.96,360.10655999999994,4,101,13,0,0,None
+"Sandberg, Dakar Shalom, Jian Shen, Marco Sogliani, Lucjan Stapp, Yaron Tsubery, Sabine Uhde,",9.96,348.5828399999999,4,92,13,0,0,None
+"Stephanie Ulrich, Tommi Välimäki, Jurian Van de Laar, Marnix Van den Ent, António Vieira Melo, Wenye",9.96,337.0591199999999,4,100,16,0,0,None
+"Xu, Ester Zabar, Wenqiang Zheng, Peter Zimmerer, Stevan Zivanovic, and Terry Zuo.",9.96,325.53539999999987,4,81,12,0,0,None
+"This document was formally approved for release by the General Assembly of the ISTQB® on May 31,",9.96,302.6174399999999,4,96,17,0,0,None
+2014.,9.96,291.09376,4,5,1,0,1,None
+Version 2014,9.96,61.86435999999994,4,12,2,0,0,None
+Page 5 of 12,9.96,61.86435999999994,4,12,4,0,0,None
+"May 31, 2014",9.96,61.86435999999994,4,12,3,0,0,None
+© International Software Testing Qualifications Board,6.0,48.438,4,53,6,0,0,None
+Overview,12.0,737.0759999999999,5,8,1,0,0,None
+Foundation Level Extension – Agile Tester,9.96,722.3986799999999,5,41,6,0,0,None
+International,9.96,742.29828,5,13,1,0,0,None
+Software Testing,9.96,730.77828,5,16,2,0,0,None
+Qualifications Board,9.96,719.25828,5,20,2,0,0,None
+1. Introduction to the Foundation Level Extensions,15.96,651.27628,5,50,7,0,1,H1
+This overview document is intended for anyone with an interest in the ISTQB Foundation Level,9.96,634.63828,5,92,15,0,0,None
+Extensions who wants a high-level introduction to the leading principles and an overview of the individual,9.96,623.11456,5,106,16,0,0,None
+extension syllabi.,9.96,611.59084,5,18,2,0,0,None
+"From time to time, ISTQB will update this document to reflect any additional extensions that shall be",9.96,588.67288,5,101,17,0,0,None
+"introduced for the Foundation Level, or to reflect major changes in existing ones. Publications of the",9.96,577.1491599999999,5,102,16,0,0,None
+updated document will be available on the ISTQB website.,9.96,565.6254399999999,5,56,9,0,0,None
+The ISTQB Foundation and Advanced Level syllabi have been defined and have been on the market for,9.96,542.5580799999999,5,97,17,0,0,None
+some time. New topics emerge due to technology and methodology changes in the market which often,9.96,531.15388,5,96,16,0,0,None
+"are brought into the ISTQB program as new Expert Level syllabi. However, not all topics are suited for the",9.96,519.6301599999999,5,106,19,0,0,None
+"Expert Level. For this reason, the extension syllabi are established at the Foundation Level to expand the",9.96,508.10643999999996,5,106,17,0,0,None
+ISTQB program to incorporate new or updated knowledge. New extensions shall be discussed and,9.96,496.58271999999994,5,92,14,0,0,None
+"introduced by the ISTQB periodically. Extensions may be established at the Advanced Level as well, but",9.96,485.0589999999999,5,102,16,0,0,None
+that is beyond the scope of this document.,9.96,473.5352799999999,5,42,8,0,0,None
+The following Foundation Level Extension syllabus has been released:,9.96,450.6173199999999,5,68,9,0,0,None
+ Agile Tester,9.96,438.2768799999999,5,14,3,0,0,None
+"In this document, each Foundation Level Extension syllabus is summarized and the associated Business",9.96,415.4585199999999,5,100,14,0,0,None
+Outcomes are stated. The Business Outcomes communicate what can be expected from a person who,9.96,403.9347999999999,5,93,15,0,0,None
+"achieves a Foundation Level Extension Certification in a particular subject area (e.g., Agile Tester), and",9.96,392.3911599999999,5,106,15,0,0,None
+will outline the benefits for companies that are considering the development of specific testing skills at this,9.96,380.8674399999999,5,111,17,0,0,None
+level.,9.96,369.34371999999985,5,6,1,0,0,None
+Version 2014,9.96,61.878519999999774,5,12,2,0,0,None
+Page 6 of 12,9.96,61.878519999999774,5,12,4,0,0,None
+"May 31, 2014",9.96,61.878519999999774,5,12,3,0,0,None
+© International Software Testing Qualifications Board,6.0,48.438,5,53,6,0,0,None
+Overview,12.0,737.0759999999999,6,8,1,0,0,None
+Foundation Level Extension – Agile Tester,9.96,722.3986799999999,6,41,6,0,0,None
+International,9.96,742.29828,6,13,1,0,0,None
+Software Testing,9.96,730.77828,6,16,2,0,0,None
+Qualifications Board,9.96,719.25828,6,20,2,0,0,None
+2. Introduction to Foundation Level Agile Tester Extension,15.96,651.27628,6,58,8,0,1,H1
+The certification for Foundation Level Extension – Agile Tester is designed for professionals who are,9.96,634.53868,6,101,15,0,0,None
+working within Agile environments.,9.96,623.11456,6,34,4,0,0,None
+It is also for professionals who are planning to start implementing,9.96,623.11456,6,67,11,0,0,None
+"Agile methods in the near future, or are working within companies that plan to do so, The certification",9.96,611.59084,6,103,18,0,0,None
+"provides an advantage for those who would like to know the required Agile activities, roles, methods, and",9.96,600.0671199999999,6,105,17,0,0,None
+methodologies specific to their role.,9.96,588.66292,6,37,5,0,0,None
+2.1 Intended Audience,14.04,559.03372,6,21,3,0,1,H2
+The Foundation Level Extension – Agile Tester qualification is aimed at four main groups of professionals:,9.96,539.94868,6,106,16,0,0,None
+1. Professionals who have achieved in-depth testing experience in traditional methods and would,9.96,528.52456,6,95,13,0,1,None
+like to get an Agile Tester Certificate.,9.96,517.0008399999999,6,40,7,0,0,None
+"2. Junior professional testers who are just starting in the testing profession, have received the",9.96,505.47711999999996,6,97,15,0,1,None
+"Foundation Level certificate, and would like to know more about the tester’s role in an Agile",9.96,493.8537999999999,6,93,16,0,0,None
+environment.,9.96,482.5491999999999,6,12,1,0,0,None
+"3. Professionals who are relatively new to testing and are required to implement test approaches,",9.96,471.0254799999999,6,97,15,0,1,None
+methods and techniques in their day to day job in Agile projects.,9.96,459.5017599999999,6,65,12,0,0,None
+4. Professionals who are experienced in their role (including unit testing) and need more,9.96,447.97803999999985,6,89,14,0,1,None
+understanding and knowledge about how to perform and manage testing on all levels in Agile,9.96,436.4543199999998,6,90,15,0,0,None
+projects.,9.96,424.9305999999998,6,9,1,0,0,None
+"These professionals include people who are in roles such as testers, test analysts, test engineers, test",9.96,402.0126399999998,6,104,16,0,0,None
+"consultants, test managers, user acceptance testers, and software developers.",9.96,390.4689999999998,6,77,9,0,0,None
+This Foundation Level Extension – Agile Tester certification may also be appropriate for anyone who,9.96,367.3319199999998,6,99,15,0,0,None
+"wants a deeper understanding of software testing in the Agile world, such as project managers, quality",9.96,355.9077999999998,6,102,16,0,0,None
+"managers, software development managers, business analysts,",9.96,344.5035999999998,6,59,6,0,0,None
+"IT directors, and management",9.96,344.5035999999998,6,28,4,0,0,None
+consultants.,9.96,332.97987999999975,6,12,1,0,0,None
+2.2 Career Paths for Testers,14.04,291.86372,6,28,5,0,1,H2
+"Building on the Foundation Level, the Agile Tester Extension supports the definition of career paths for",9.96,272.90828000000005,6,104,16,0,0,None
+professional testers. A person with the Agile Tester certificate has extended the broad understanding of,9.96,261.38456,6,104,15,0,0,None
+testing acquired at the Foundation Level to enable him or her to work effectively as a professional tester in,9.96,249.86084,6,109,19,0,0,None
+an Agile project.,9.96,238.45664,6,17,3,0,0,None
+People possessing an ISTQB Foundation Level Extension – Agile Tester certificate may use the Certified,9.96,215.28968,6,102,15,0,0,None
+Tester Foundation Level acronym CTFL-AT.,9.96,203.86556,6,40,5,0,0,None
+2.3 Learning Objectives,14.04,162.71372,6,23,3,0,1,H2
+"In general, the Foundation Level syllabus is examinable at a K1 level, i.e., the candidate will recognize,",9.96,143.75827999999998,6,106,17,0,0,None
+remember and recall terms and concepts stated in the Foundation Level syllabus.,9.96,132.23456,6,79,12,0,0,None
+"In addition, all Foundation Level syllabus learning objectives are examinable at the same K- level in an",9.96,109.3166,6,104,17,0,0,None
+extension exam.,9.96,97.80283999999999,6,15,2,0,0,None
+Version 2014,9.96,61.916959999999975,6,12,2,0,0,None
+Page 7 of 12,9.96,61.916959999999975,6,12,4,0,0,None
+"May 31, 2014",9.96,61.916959999999975,6,12,3,0,0,None
+© International Software Testing Qualifications Board,6.0,48.438,6,53,6,0,0,None
+Overview,12.0,737.0759999999999,7,8,1,0,0,None
+Foundation Level Extension – Agile Tester,9.96,722.3986799999999,7,41,6,0,0,None
+International,9.96,742.29828,7,13,1,0,0,None
+Software Testing,9.96,730.77828,7,16,2,0,0,None
+Qualifications Board,9.96,719.25828,7,20,2,0,0,None
+"That said, each extension level exam focuses on the learning objectives defined in that extension",9.96,672.07828,7,97,15,0,0,None
+"syllabus. The relevant learning objectives at K1, K2, and K3 levels are provided at the beginning of each",9.96,660.5545599999999,7,105,18,0,0,None
+chapter within each particular extension syllabus.,9.96,649.0308399999999,7,50,6,0,0,None
+2.4 Entry Requirements,14.04,619.3937199999999,7,22,3,0,1,H2
+"To be able to participate in a Foundation Level Extension – Agile Tester exam, candidates must have",9.96,600.33868,7,99,17,0,0,None
+obtained the ISTQB Foundation Level certificate.,9.96,588.9145599999999,7,48,6,0,0,None
+2.5 Structure and Course Duration,14.04,559.2737199999999,7,33,5,0,1,H2
+The Foundation Level Extension – Agile Tester syllabus has no shared or common elements with the,9.96,540.18868,7,96,16,0,0,None
+Foundation Level syllabus.,9.96,528.76456,7,26,3,0,0,None
+The syllabi must be taught in the following minimum number of days:,9.96,505.8466,7,67,12,0,0,None
+Syllabus,9.96,479.44828,7,8,1,0,0,None
+Baseline: Foundation,9.96,461.32828,7,20,2,0,0,None
+Extension: Agile Tester,9.96,443.32828,7,23,3,0,0,None
+Days,9.96,479.44828,7,4,1,0,0,None
+The following figure shows the structure of the Agile Tester Extension and its relationship to the,9.96,413.80828,7,98,16,0,0,None
+Foundation Level.,9.96,402.28456,7,17,2,0,0,None
+Version 2014,9.96,61.9182,7,12,2,0,0,None
+Page 8 of 12,9.96,61.9182,7,12,4,0,0,None
+"May 31, 2014",9.96,61.9182,7,12,3,0,0,None
+© International Software Testing Qualifications Board,6.0,48.438,7,53,6,0,0,None
+Overview,12.0,737.0759999999999,8,8,1,0,0,None
+Foundation Level Extension – Agile Tester,9.96,722.3986799999999,8,41,6,0,0,None
+International,9.96,742.29828,8,13,1,0,0,None
+Software Testing,9.96,730.77828,8,16,2,0,0,None
+Qualifications Board,9.96,719.25828,8,20,2,0,0,None
+2.6 Keeping It Current,14.04,642.43372,8,22,4,0,1,H2
+The software industry changes rapidly. To deal with these changes and to provide the stakeholders with,9.96,623.4782799999999,8,102,16,0,0,None
+"access to relevant and current information, the ISTQB working groups have created links on the",9.96,611.9545599999999,8,94,15,0,0,None
+"www.istqb.org web site which refer to supporting documents, changes to standards and new occurrences",9.96,600.4308399999999,8,100,14,0,0,None
+in the industry. This information is not examinable under this syllabus.,9.96,588.9071199999998,8,72,11,0,0,None
+Version 2014,9.96,61.903599999999834,8,12,2,0,0,None
+Page 9 of 12,9.96,61.903599999999834,8,12,4,0,0,None
+"May 31, 2014",9.96,61.903599999999834,8,12,3,0,0,None
+© International Software Testing Qualifications Board,6.0,48.438,8,53,6,0,0,None
+Overview,12.0,737.0759999999999,9,8,1,0,0,None
+Foundation Level Extension – Agile Tester,9.96,722.3986799999999,9,41,6,0,0,None
+International,9.96,742.29828,9,13,1,0,0,None
+Software Testing,9.96,730.77828,9,16,2,0,0,None
+Qualifications Board,9.96,719.25828,9,20,2,0,0,None
+3. Overview of the Foundation Level Extension – Agile Tester,15.96,654.2366800000001,9,60,10,0,1,None
+Syllabus,15.96,635.9146000000001,9,8,1,0,0,None
+3.1 Business Outcomes,14.04,588.43372,9,21,3,0,1,H2
+This section lists the Business Outcomes expected of a candidate who has achieved the Foundation Level,9.96,569.4782799999999,9,102,16,0,0,None
+Extension – Agile Tester certification.,9.96,557.8549599999999,9,39,5,0,0,None
+An Agile Tester can…,9.96,534.9071199999998,9,20,4,0,0,None
+AFM1 Collaborate in a cross-functional Agile team being familiar with principles and basic,9.96,511.96828,9,90,13,0,0,None
+practices of Agile software development.,9.96,500.44828,9,40,5,0,0,None
+AFM2 Adapt existing testing experience and knowledge to Agile values and principles.,9.96,477.40828000000005,9,84,12,0,0,None
+AFM3 Support the Agile team in planning test-related activities.,9.96,452.44828,9,64,9,0,0,None
+AFM4 Apply relevant methods and techniques for testing in an Agile project.,9.96,427.36828,9,75,12,0,0,None
+AFM5 Assist the Agile team in test automation activities.,9.96,402.28828000000004,9,57,9,0,0,None
+"AFM6 Assist business stakeholders in defining understandable and testable user stories,",9.96,377.18828,9,87,11,0,0,None
+"scenarios, requirements and acceptance criteria as appropriate.",9.96,365.78828000000004,9,63,7,0,0,None
+AFM7 Work and share information with other team members using effective communication,9.96,342.74828,9,85,12,0,0,None
+styles and channels.,9.96,331.22828000000004,9,20,3,0,0,None
+"In general, a Certified Tester Foundation Level – Agile Tester is expected to have acquired the necessary",9.96,295.96868,9,105,17,0,0,None
+skills to working effectively within an Agile team and environment.,9.96,284.54456,9,67,10,0,0,None
+3.2 Content,14.04,243.38371999999998,9,11,2,0,1,H2
+Chapter 1: Agile Software Development,9.96,224.39828,9,37,5,0,0,None
+ The tester should remember the basic concept of Agile software development based on the Agile,9.96,212.05784000000003,9,95,16,0,0,None
+Manifesto.,9.96,200.75324,9,10,1,0,0,None
+ The tester should understand the advantages of the whole-team approach and the benefits of,9.96,188.41280000000003,9,92,15,0,0,None
+early and frequent feedback.,9.96,177.1082,9,28,4,0,0,None
+ The tester should recall Agile software development approaches.,9.96,164.76776000000004,9,65,9,0,0,None
+ The tester should be able to write testable user stories in collaboration with developers and,9.96,152.52692000000005,9,95,16,0,0,None
+business representatives.,9.96,141.22232000000002,9,25,2,0,0,None
+ The tester should understand how retrospectives can be used as a mechanism for process,9.96,128.88188000000005,9,88,15,0,0,None
+improvement in Agile projects.,9.96,117.57728000000004,9,30,4,0,0,None
+ The tester should understand the use and purpose of continuous integration.,9.96,105.23684000000003,9,77,12,0,0,None
+" The tester should know the differences between iteration and release planning, and how a tester",9.96,92.99600000000002,9,97,16,0,0,None
+adds value in each of these activities.,9.96,81.69140000000003,9,39,7,0,0,None
+Version 2014,9.96,61.890920000000015,9,12,2,0,0,None
+Page 10 of 12,9.96,61.890920000000015,9,13,4,0,0,None
+"May 31, 2014",9.96,61.890920000000015,9,12,3,0,0,None
+© International Software Testing Qualifications Board,6.0,48.438,9,53,6,0,0,None
+Overview,12.0,737.0759999999999,10,8,1,0,0,None
+Foundation Level Extension – Agile Tester,9.96,722.3986799999999,10,41,6,0,0,None
+International,9.96,742.29828,10,13,1,0,0,None
+Software Testing,9.96,730.77828,10,16,2,0,0,None
+Qualifications Board,9.96,719.25828,10,20,2,0,0,None
+"Chapter 2: Fundamental Agile Testing Principles, Practices, and Processes",9.96,672.07828,10,73,9,0,0,None
+ The tester should be able to describe the differences between testing activities in Agile projects,9.96,659.7378399999999,10,100,16,0,0,None
+and non-Agile projects.,9.96,648.3137199999999,10,23,3,0,0,None
+ The tester should be able to describe how development and testing activities are integrated in,9.96,636.0927999999999,10,96,16,0,0,None
+Agile projects.,9.96,624.6686799999999,10,15,2,0,0,None
+ The tester should be able to describe the role of independent testing in Agile projects.,9.96,612.3282399999998,10,90,16,0,0,None
+ The tester should be able to describe the tools and techniques used to communicate the status of,9.96,600.2069199999999,10,98,18,0,0,None
+"testing in an Agile project, including test progress and product quality.",9.96,588.7827999999998,10,73,11,0,0,None
+ The tester should be able to describe the process of evolving tests across multiple iterations and,9.96,576.5618799999999,10,100,17,0,0,None
+explain why test automation is important to manage regression risk in Agile projects.,9.96,565.1377599999998,10,85,13,0,0,None
+" The tester should understand the skills (people, domain, and testing) of a tester in an Agile team.",9.96,552.7674399999999,10,101,18,0,0,None
+ The tester should be able to understand the role of a tester within an Agile team.,9.96,540.6461199999999,10,84,17,0,0,None
+"Chapter 3: Agile Testing Methods, Techniques, and Tools",9.96,517.8277599999999,10,55,8,0,0,None
+" The tester should be able to recall the concepts of test-driven development, acceptance test-",9.96,505.48731999999995,10,95,15,0,0,None
+"driven development, and behavior-driven development.",9.96,494.06319999999994,10,52,5,0,0,None
+ The tester should be able to recall the concepts of the test pyramid.,9.96,481.72275999999994,10,71,14,0,0,None
+ The tester should be able to summarize the testing quadrants and their relationships with testing,9.96,469.6014399999999,10,99,16,0,0,None
+levels and testing types.,9.96,458.2968399999999,10,25,4,0,0,None
+" For a given Agile project, the tester should be able to work as a tester in a Scrum team.",9.96,445.9563999999999,10,91,20,0,0,None
+ The tester should be able to assess quality risks within an Agile project.,9.96,433.7155599999999,10,76,14,0,0,None
+ The tester should be able to estimate testing effort based on iteration content and quality risks.,9.96,421.5942399999999,10,100,17,0,0,None
+ The tester should be able to interpret relevant information to support testing activities.,9.96,409.3533999999999,10,92,14,0,0,None
+ The tester should be able to explain to business stakeholders how to define testable acceptance,9.96,397.2320799999999,10,97,16,0,0,None
+criteria.,9.96,385.9075599999999,10,9,1,0,0,None
+" Given a user story, the tester should be able to write acceptance test-driven development test",9.96,373.5671199999999,10,96,16,0,0,None
+cases.,9.96,362.14299999999986,10,6,1,0,0,None
+" For both functional and non-functional behavior, the tester should be able to write test cases using",9.96,349.80255999999986,10,102,17,0,0,None
+black box test design techniques based on given user stories.,9.96,338.49795999999986,10,61,10,0,0,None
+ The tester should be able to perform exploratory testing to support the testing of an Agile project.,9.96,326.15751999999986,10,102,18,0,0,None
+ The tester should be able to recall different tools available to testers according to their purpose,9.96,314.03619999999984,10,101,17,0,0,None
+and to activities in Agile projects.,9.96,302.6120799999998,10,36,6,0,0,None
+Version 2014,9.96,61.85895999999979,10,12,2,0,0,None
+Page 11 of 12,9.96,61.85895999999979,10,13,4,0,0,None
+"May 31, 2014",9.96,61.85895999999979,10,12,3,0,0,None
+© International Software Testing Qualifications Board,6.0,48.438,10,53,6,0,0,None
+Overview,12.0,737.0759999999999,11,8,1,0,0,None
+Foundation Level Extension – Agile Tester,9.96,722.3986799999999,11,41,6,0,0,None
+International,9.96,742.29828,11,13,1,0,0,None
+Software Testing,9.96,730.77828,11,16,2,0,0,None
+Qualifications Board,9.96,719.25828,11,20,2,0,0,None
+4. References,15.96,651.27628,11,13,2,0,1,H1
+4.1 Trademarks,14.04,604.9937199999999,11,14,2,0,1,H2
+The following registered trademarks and service marks are used in this document:,9.96,586.03828,11,80,12,0,0,None
+ISTQB® is a registered trademark of the International Software Testing Qualifications Board,9.88,560.00284,11,91,12,0,0,None
+4.2 Documents and Web Sites,14.04,518.92372,11,27,5,0,1,H2
+Identifier,9.96,500.08828,11,10,1,0,0,None
+[ISTQB-Web],9.96,485.44828,11,11,1,0,0,None
+Reference,9.96,500.08828,11,9,1,0,0,None
+Web site of the International Software Testing Qualifications Board. Refer,9.96,485.44828,11,74,10,0,0,None
+to this website for the latest ISTQB Glossary and Syllabi. (www.istqb.org),9.96,473.92828000000003,11,74,11,0,0,None
+Version 2014,9.96,61.9182,11,12,2,0,0,None
+Page 12 of 12,9.96,61.9182,11,13,4,0,0,None
+"May 31, 2014",9.96,61.9182,11,12,3,0,0,None
+© International Software Testing Qualifications Board,6.0,48.438,11,53,6,0,0,None
+Ontario’s Libraries,15.96,697.42836,0,19,2,0,0,None
+Working Together,15.96,674.87688,0,16,2,0,0,None
+oposal,32.04,590.33966,0,6,1,0,0,None
+quest foooor Prr Prr Prr Proposal,32.04,590.08334,0,33,6,0,0,None
+oposal,32.04,590.33966,0,6,1,0,0,None
+quest f,32.04,590.33966,0,7,2,0,0,None
+RFP: Reeeequest f,32.04,590.08334,0,17,3,0,0,None
+RFP: R,32.04,590.33966,0,6,2,1,0,None
+oposal,32.04,590.08334,0,6,1,0,0,None
+quest f,32.04,590.08334,0,7,2,0,0,None
+RFP: R,32.04,590.08334,0,6,2,1,0,None
+RFP: R,32.04,590.08334,0,6,2,1,0,None
+To Present a Proposal for Developing,24.0,516.816,0,36,6,0,0,None
+the Business Plan for the Ontario,24.0,489.21599999999995,0,33,6,0,0,None
+Digital Library,24.0,461.61599999999993,0,15,2,0,0,None
+"March 21, 2003",20.04,427.17156,0,14,3,0,0,None
+"The Ontario Digital Library will make Ontario a better place to study, work and live by ensuring that",9.96,83.86164000000001,0,101,18,0,0,None
+all Ontario citizens have access to the knowledge and learning supports needed to be life-long,9.96,69.93756,0,94,15,0,0,None
+learners and effective contributors towards Ontario’s prosperity.,9.96,56.01348,0,65,7,0,0,None
+Ontario’s Digital Library,20.04,675.16764,1,25,3,0,0,H1
+A Critical Component for Implementing Ontario’s Road Map to,15.96,653.87254,1,59,9,0,0,None
+Prosperity Strategy,15.96,635.5185399999999,1,19,2,0,0,None
+Summary,12.0,579.3720000000001,1,7,1,0,0,H2
+The purpose of this Request for Proposal (RFP) is to invite firms and/or consultants to,11.04,551.1105600000001,1,87,15,0,0,None
+present a proposal for developing the business plan for the Ontario Digital Library (ODL).,11.04,538.5139200000001,1,90,14,0,0,None
+The ODL will deliver high-quality library electronic content to all Ontario residents in order to,11.04,525.7958400000001,1,97,15,0,0,None
+"assist people as they learn, work, and enhance their quality of life. The business plan to be",11.04,513.0777600000001,1,93,17,0,0,None
+developed is to document and clearly communicate:,11.04,500.48112000000015,1,49,7,0,0,None
+"how the ODL will be implemented, including the timeline",11.04,475.7625600000001,1,55,9,0,0,None
+the financial plan for the implementation,11.04,463.16592000000014,1,41,6,0,0,None
+"the financial plan for the first 2 operating years, including capital and operating costs,",11.04,450.56928000000016,1,90,14,0,0,None
+"revenues, etc.",11.04,437.85118000000006,1,14,2,0,0,None
+a financial forecast for the succeeding 2 operating years,11.04,425.2545400000001,1,57,9,0,0,None
+the services and products to be delivered by the ODL,11.04,412.5364600000001,1,52,10,0,0,None
+how the ODL will operate and be managed following the implementation,11.04,399.9398200000001,1,68,11,0,0,None
+"who will be involved, and what their role/responsibility will be, for both the",11.04,387.34318000000013,1,78,13,0,0,None
+implementation and operational stages,11.04,374.62510000000015,1,37,4,0,0,None
+the marketing and communications plan for the ODL,11.04,362.02846000000017,1,49,8,0,0,None
+This business plan must be completed and approved by the ODL Steering Committee no,11.04,336.70270000000016,1,82,14,0,0,None
+"later than September 30, 2003",11.04,324.10608000000013,1,29,5,0,0,None
+Timeline:,11.04,299.3875200000001,1,9,1,0,0,H3
+Those firms/consultants intended to submit a proposal to this RFP must indicate their,11.04,274.7904000000001,1,85,13,0,0,None
+intention to do so in an e-mail to Michael Ridley (mridley@uoguelph.ca) by April 11th.,10.95,262.03056000000004,1,86,14,0,0,None
+"Proposals may be e-mailed, mailed, couriered or faxed to: Larry Moore",11.04,237.43344000000002,1,69,11,0,0,None
+"(lmoore@accessola.com), Executive Director, The Ontario Library Association, 100 Lombard",10.89,224.8368,1,88,9,0,0,None
+"St., Suite 303, Toronto, ON M5C 1M3. Proposals must be received by Noon on Monday,",10.56,212.11056,1,82,15,0,0,None
+"April 21, 2003.",11.04,199.51391999999998,1,15,3,0,0,None
+Those proposals that are short-listed will be invited to discuss their proposal during the week,11.04,174.79536,1,95,15,0,0,None
+"of April 28, 2003. No presentation will be expected. Firms or consultants invited to an",11.04,162.19871999999998,1,87,15,0,0,None
+interview will be expected to discuss the project and their approach with the selection,11.04,149.48064,1,87,14,0,0,None
+committee.,11.04,136.884,1,10,1,0,0,None
+"Contracts with the firm/consultant will be signed the week of May 5, 2003 with the work to",11.04,112.28687999999998,1,90,17,0,0,None
+commence as soon as possible thereafter.,11.04,99.56879999999998,1,40,6,0,0,None
+RFP: To Develop the Ontario Digital Library Business Plan,7.56,49.52484,1,57,9,0,0,None
+March 2003,7.56,49.52484,1,10,2,0,0,None
+2222,9.0,48.0961,1,4,1,0,1,None
+Please note that we reserve the right not to select any of the submitted proposals and may,11.04,707.47056,2,90,17,0,0,None
+seek further response to these Terms of Reference.,11.04,694.87392,2,50,8,0,0,None
+"If you require further information or have any questions, please contact Michael Ridley by e-",11.04,670.15536,2,93,15,0,0,None
+mail (mridley@uoguelph.ca) only by 3:00 p.m. on Friday April 18th. All questions and,11.04,657.55872,2,84,13,0,0,None
+responses will be shared with those who have indicated that they will be submitting a,11.04,644.84064,2,85,15,0,0,None
+"proposal. Please note, that firms/consultants who have not indicated in an e-mail to Michael",11.04,632.244,2,92,14,0,0,None
+Ridley by April 11th that they will be submitting a proposal will not receive any further,10.95,619.6305600000001,2,89,16,0,0,None
+information or question responses.,11.04,606.9124800000001,2,34,4,0,0,None
+Background,12.0,568.932,2,10,1,0,0,H2
+"First, some background on the ODL. For the last two years the Ontario Library Association",11.04,540.55056,2,89,15,0,0,None
+"has acted as a catalyst, bringing together the stakeholders needed to create the Ontario",11.04,527.95392,2,88,14,0,0,None
+"Digital Library (ODL). These stakeholders include Ontario’s 5000+ public libraries, university,",11.04,515.3572800000001,2,95,11,0,0,None
+"college, and school libraries, as well as Ontario government ministries.",11.04,502.6392000000001,2,72,10,0,0,None
+Libraries that serve very different clientele recognize that by working together they can create,11.04,478.04208000000006,2,96,14,0,0,None
+"seamless access to quality electronic library services. Through the ODL, students will be",11.04,465.32400000000007,2,89,13,0,0,None
+"able to explore a topic at school, use the same child-safe resources after school (either at",11.04,452.7273600000001,2,92,16,0,0,None
+"home or at a public library), enter college or university with a knowledge of how to use",11.04,440.1307200000001,2,88,17,0,0,None
+"electronic resources that are still available and then, after graduation, continue to use these",11.04,427.4126400000001,2,95,14,0,0,None
+skills and resources at work or at home.,11.04,414.81600000000014,2,40,8,0,0,None
+We are moving into a period of convergence. With convergence we no longer have to license,11.04,390.0974400000001,2,89,16,0,0,None
+commercial products as individual libraries or institutions. We can work together to spend our,11.04,377.50080000000014,2,94,14,0,0,None
+money wisely. The provincial government has made this possible by working hard to provide,11.04,364.90416000000016,2,89,14,0,0,None
+"all Ontarians with a stable, high-speed communications infrastructure. While there is still a",11.04,352.1860800000002,2,93,13,0,0,None
+"great deal of work needed to improve this infrastructure, libraries are beginning to plan how",11.04,339.5894400000002,2,93,15,0,0,None
+best to exploit communications technology. We can reduce barriers to access and create the,11.04,326.8713600000002,2,90,14,0,0,None
+content infrastructure needed to support a knowledge society.,11.04,314.27472000000023,2,61,8,0,0,None
+"The concept of an ODL is a key element in The Roadmap to Prosperity, a strategic plan to",11.04,289.6776000000002,2,88,18,0,0,None
+envision and attain Ontario’s economic goal prepared by the Ontario Jobs and Investment,11.04,276.9595200000002,2,87,13,0,0,None
+Board. The OJIB strategic plan recommends an electronic library to “connect students to new,11.04,264.36288000000025,2,91,14,0,0,None
+"workplaces, new sources of information and applied learning opportunities”. The ODL will do",11.04,251.64480000000023,2,91,13,0,0,None
+"that and much more. The ODL will connect students to electronic information, and will also",11.04,239.04816000000022,2,90,15,0,0,None
+leverage this investment to help connect all citizens to the electronic information they need as,11.04,226.45152000000022,2,96,15,0,0,None
+"they make decisions, solve problems and enhance their quality of life.",11.04,213.73344000000023,2,70,11,0,0,None
+Libraries have long been a key delivery point for public services. The ODL will allow that,11.04,188.40768000000023,2,90,16,0,0,None
+"delivery point to move closer to citizens, into the smallest of libraries and even into living",11.04,175.81104000000022,2,94,16,0,0,None
+rooms.,11.04,163.09296000000023,2,6,1,0,0,None
+"Libraries have a long tradition of using a practical, consultative approach to solving problems,",11.04,137.88864000000024,2,96,14,0,0,None
+and of learning from others. The ODL is a very practical solution to various problems.,11.04,125.17056000000024,2,86,15,0,0,None
+Jurisdiction-wide digital libraries are very practical and very real. The ODL we propose is,11.04,99.84480000000023,2,91,14,0,0,None
+leading edge for Ontario but several jurisdictions have forged the path with collaborative,11.04,87.24816000000024,2,90,13,0,0,None
+"digital libraries. We can learn from their experiences. For example, The Alberta Library (TAL)",11.04,74.65152000000025,2,94,14,0,0,None
+RFP: To Develop the Ontario Digital Library Business Plan,7.56,49.52484,2,57,9,0,0,None
+March 2003,7.56,49.52484,2,10,2,0,0,None
+3333,9.0,48.0961,2,4,1,0,1,None
+was incorporated in 1997 as a province-wide library consortium. TAL works collaboratively,11.04,707.55886,3,89,12,0,0,None
+with its members to promote universal access to materials and resources in more than 250,11.04,694.96224,3,88,15,0,0,None
+"public, post-secondary, special, government and regional libraries. Unlike ODL, TAL does",11.04,682.24416,3,88,11,0,0,None
+"not include elementary or secondary schools. However, the timeline and funding we are",11.04,669.64752,3,85,13,0,0,None
+proposing for ODL is comparable to TAL‘s experience. TAL’s business planning took several,11.04,656.92944,3,89,13,0,0,None
+years. TAL’s implementation plan was supported by 8 million dollars in provincially shared,11.04,644.3328,3,90,13,0,0,None
+"funding, spread over three years, later revised to 15 million dollars over 4 years. Not only is",11.04,631.73616,3,95,17,0,0,None
+"Alberta’s population 30% of Ontario’s, TAL does not include elementary or secondary",11.04,619.01808,3,83,12,0,0,None
+schools as partners; it has 250 member libraries. ODL envisions universal access for all,11.04,606.4214400000001,3,88,14,0,0,None
+"10,000,000 Ontarians, with more than 5000 Ontario libraries as partners. Although ODL can",11.04,593.7033600000001,3,89,13,0,1,None
+"learn from TAL’s practices, the scope of planning and implementing ODL is much larger than",11.04,581.1067200000001,3,90,15,0,0,None
+TAL.,11.04,568.5100800000001,3,4,1,1,0,None
+The ODL will be a partnership-based organization providing seamless electronic information,11.04,543.1843200000002,3,90,11,0,0,None
+services and resources to the citizens of Ontario. It will use local libraries as the entry point for,11.04,530.4662400000002,3,101,18,0,0,None
+common resources The ODL will recognize the unique responsibilities and needs of public,11.04,517.8696000000002,3,87,13,0,0,None
+"libraries, school libraries, college and university libraries and special libraries. The ODL",11.04,505.15152000000023,3,92,12,0,0,None
+"envisions a digital network of information resources, allowing members to collaborate when",11.04,492.55488000000025,3,90,12,0,0,None
+there is mutual benefit and to support the common mandates of local libraries.,11.04,479.9582400000003,3,78,13,0,0,None
+The principles which will define and guide the ODL are:,11.04,455.23968000000025,3,55,10,0,0,None
+Equitable access for all Ontarians:,11.04,430.64256000000023,3,35,5,0,0,H3
+"We will bring consistent, high-quality electronic resources and services to 10 million",11.04,405.9240000000002,3,86,12,0,0,None
+Ontario citizens,11.04,393.3273600000002,3,16,2,0,0,None
+We will eliminate barriers to the access to information and create more consistent,11.04,368.7302400000002,3,82,13,0,0,None
+services for library clients.,11.04,356.0121600000002,3,29,4,0,0,None
+Shared decision-making and accountability:,11.04,331.4150400000002,3,42,4,0,0,H3
+We will facilitate consensus among members regarding ODL’s portfolio of electronic,11.04,306.6964800000002,3,82,11,0,0,None
+licenses and services,11.04,294.0998400000002,3,21,3,0,0,None
+We will balance the interests and realities of small and large as well as rich and poor,11.04,269.5027200000002,3,87,17,0,0,None
+communities and institutions.,11.04,256.7846400000002,3,29,3,0,0,None
+Shared governance structure:,11.04,232.18752000000018,3,28,3,0,0,H3
+We will share decision-making in order to enable the people we serve.,11.04,207.46896000000018,3,69,12,0,0,None
+We will work based on an underlying assumption of trust and synergy.,11.04,182.8718400000002,3,68,12,0,0,None
+Shared funding:,11.04,158.2747200000002,3,15,2,0,0,H3
+"We will leverage provincial, institutional, and local dollars to realize economies of scale",11.04,133.5561600000002,3,91,13,0,0,None
+and put Ontario dollars to work for everyone.,11.04,120.95952000000021,3,45,8,0,0,None
+We will be willing to pool talents and dollars in order to provide common services that are,11.04,96.24096000000021,3,91,17,0,0,None
+truly greater than those that can be maintained by individual institutions.,11.04,83.64432000000022,3,75,11,0,0,None
+RFP: To Develop the Ontario Digital Library Business Plan,7.56,49.52484,3,57,9,0,0,None
+March 2003,7.56,49.52484,3,10,2,0,0,None
+4444,9.0,48.0961,3,4,1,0,1,None
+Local points of entry:,11.04,707.56992,4,22,4,0,0,H3
+"We will provide the licenses, infrastructure, services and support that enable local",11.04,682.2441600000001,4,84,12,0,0,None
+"libraries to provide exceptional services to their clientele. ODL will focus on support,",11.04,669.6475200000001,4,88,13,0,0,None
+"providing the underpinning, not overshadowing.",11.04,656.9294400000001,4,46,5,0,0,None
+Services envisioned for the ODL’s include:,11.04,631.7251200000001,4,42,6,0,0,None
+Access:,11.04,606.3993600000001,4,7,1,0,0,H3
+"to the “deep” web (i.e. Commercial, purchased electronic services)",11.04,593.6812800000001,4,66,9,0,0,None
+to credible web sites and electronic resources,11.04,581.0846400000001,4,46,7,0,0,None
+to digital government information,11.04,568.4880000000002,4,33,4,0,0,None
+to local digital collections,11.04,555.7698800000001,4,28,4,0,0,None
+Guidance and Advice:,11.04,530.4441200000001,4,20,3,0,0,H3
+to support e-learning,11.04,517.84752,4,21,3,0,0,None
+"to support citizens, in real-time, as they try to use electronic resources",11.04,505.12944000000005,4,74,12,0,0,None
+to assist citizens as they use web-links,11.04,492.53280000000007,4,40,7,0,0,None
+Training:,11.04,479.9361600000001,4,9,1,0,0,H3
+for library workers,11.04,467.2180800000001,4,19,3,0,0,None
+for the general public,11.04,454.6214400000001,4,22,4,0,0,None
+Provincial Purchasing & Licensing:,11.04,429.2956800000001,4,34,4,0,0,H3
+of electronic content on a consortia basis for all member libraries,11.04,416.69904000000014,4,67,11,0,0,None
+Technological Support:,11.04,391.37328000000014,4,22,2,0,0,H3
+of common standards for the preservation and archiving local digital content,11.04,378.65520000000015,4,76,11,0,0,None
+of a common interface to ODL resources and services that can be imbedded in local,11.04,366.05856000000017,4,81,15,0,0,None
+library web sites,11.04,353.46192,4,17,3,0,0,None
+What could the ODL really mean?,11.04,310.26239999999996,4,31,6,0,0,H3
+For each Ontario citizen it could mean:,11.04,285.90816,4,39,7,0,0,None
+One local point of entry to access seamless electronic library services and,11.04,273.06864,4,75,12,0,0,None
+"resources for their personal, educational and professional needs;",11.04,260.47200000000004,4,65,8,0,0,None
+"Access to credible, high-quality, user-friendly electronic services through their",11.04,247.75392000000002,4,81,9,0,0,None
+"community, school, or academic library;",11.04,235.15728000000001,4,39,5,0,0,None
+Confidence that the electronic services and sources they – and their children,11.04,222.56068,4,77,12,0,0,None
+"– are using are safe, valid, and bringing them both global and local",11.04,209.84258,4,68,13,0,0,None
+perspectives;,11.04,197.24594,4,13,1,0,0,None
+Electronic information and tools that enhance job skills and the learning,11.04,184.52783999999994,4,73,11,0,0,None
+experience,11.04,171.93119999999993,4,10,1,0,0,None
+For each Ontario student it could mean:,11.04,147.45551999999992,4,39,7,0,0,None
+"One local point of entry to quality, curriculum- based electronic information",11.04,134.61599999999993,4,77,11,0,0,None
+resources and services,11.04,122.01935999999993,4,22,3,0,0,None
+"Connection to their individual educational environment, whether at the",11.04,109.30127999999993,4,70,9,0,0,None
+"elementary, secondary or post-secondary levels",11.04,96.70462,4,46,5,0,0,None
+RFP: To Develop the Ontario Digital Library Business Plan,7.56,49.52484,4,57,9,0,0,None
+March 2003,7.56,49.52484,4,10,2,0,0,None
+5555,9.0,48.0961,4,4,1,0,1,None
+"Confidence that the services and resources people are using are credible,",11.04,707.47056,5,73,11,0,0,None
+available when they need them and adaptable to different learning styles,11.04,694.87392,5,72,11,0,0,None
+For each Ontario library it could mean:,11.04,669.6696,5,39,7,0,0,None
+One point of entry for themselves and their clientele to quality electronic,11.04,656.83008,5,75,12,0,0,None
+"resources and services that support and enhance their collections, programs",11.04,644.23344,5,75,10,0,0,None
+and services,11.04,631.6368,5,12,2,0,0,None
+"The opportunity to show case their local community, collections, services, and",11.04,618.91872,5,78,11,0,0,None
+expertise,11.04,606.32208,5,9,1,0,0,None
+"The opportunity to gain from the provincial, collaborative partnership in order",11.04,593.60404,5,79,11,0,0,None
+to provide a seamless gateway to digital resources and services,11.04,581.00732,5,63,10,0,0,None
+For the Ontario government it could mean:,11.04,555.8030000000001,5,41,7,0,0,None
+"A point of entry to information services and resources for all Ontario citizens,",11.04,543.08496,5,80,13,0,0,None
+connecting to portal initiatives.,11.04,530.36688,5,33,4,0,0,None
+Support of the Ontario E-Learning strategy through a collaborative digital,11.04,517.7702400000001,5,74,10,0,0,None
+library initiative that positions Ontario on the global e-learning scene,11.04,505.0521600000001,5,72,10,0,0,None
+Improved access and flexibility for all students at all ages and stages,11.04,492.45554000000004,5,71,12,0,0,None
+(supports Ontario’s lifelong learning strategy),11.04,479.85890000000006,5,47,5,0,0,None
+The opportunity to address emerging job skills shortages and facilitate school,11.04,467.1408200000001,5,78,11,0,0,None
+to work and job to job transitions with the necessary information and,11.04,454.54412,5,69,12,0,0,None
+knowledge supports and tools,11.04,441.82604000000003,5,28,4,0,0,None
+ODL will be an incorporated non-profit organization governed by a Board of Directors elected,11.04,416.62172000000004,5,92,14,0,0,None
+by a voting membership. The Board will include representatives from all stakeholders. We,11.04,403.90368,5,88,13,0,0,None
+envision a governance model similar to that prepared for the province’s ORION network.,11.04,391.30704000000003,5,86,13,0,0,None
+"More information regarding the envisioned phasing, funding and resources required for the",11.04,366.58848,5,89,12,0,0,None
+ODL can be found in the appendixes.,11.04,353.99184,5,35,7,0,0,None
+The Business Plan to be Developed,12.0,315.972,5,33,6,0,0,H2
+The business plan which needs to be developed for the ODL must be a formal business plan,11.04,276.07066000000003,5,88,17,0,0,None
+"that documents and clearly communicates the ODL’s services, funding and governance",11.04,263.47402000000005,5,82,11,0,0,None
+"structures, as well as implementation plans for 2004-2005, and operational plans for 2005-",11.04,250.87738000000002,5,90,13,0,0,None
+"2007. The planning process must also secure the full commitment of all stakeholders, as",11.04,238.15930000000003,5,87,14,0,1,None
+represented on the Steering Committee.,11.04,225.56266000000002,5,38,5,0,0,None
+"Specifically, the business plan must include:",11.04,201.44026000000002,5,45,6,0,0,None
+"how the ODL will be implemented, including the timeline",11.04,176.11450000000002,5,55,9,0,0,None
+the financial plan for the implementation,11.04,163.39642000000003,5,41,6,0,0,None
+"the financial plan for the first 2 operating years, including capital and operating costs,",11.04,150.79978000000003,5,90,14,0,0,None
+"revenues, etc.",11.04,138.20311999999998,5,14,2,0,0,None
+a financial forecast for the succeeding 2 operating years,11.04,125.48503999999998,5,57,9,0,0,None
+the services and products to be delivered by the ODL,11.04,112.88842000000001,5,52,10,0,0,None
+how the ODL will operate and be managed following the implementation,11.04,100.17034000000001,5,68,11,0,0,None
+"who will be involved, and what their role/responsibility will be, for both the",11.04,87.57370000000002,5,78,13,0,0,None
+implementation and operational stages,11.04,74.97708,5,37,4,0,0,None
+RFP: To Develop the Ontario Digital Library Business Plan,7.56,49.52484,5,57,9,0,0,None
+March 2003,7.56,49.52484,5,10,2,0,0,None
+6666,9.0,48.0961,5,4,1,0,1,None
+the marketing and communications plan for the ODL,11.04,707.47056,6,49,8,0,0,None
+the commitment of all stakeholders to their responsibilities,11.04,694.87392,6,60,8,0,0,None
+The process of developing this business plan must be extremely consultative to ensure that,11.04,669.54816,6,90,14,0,0,None
+all stakeholders are engaged in creating a synergistic ODL organization. The proposal must,11.04,656.8300800000001,6,90,13,0,0,None
+indicate how this consultative process will be approached.,11.04,644.2334400000001,6,58,8,0,0,None
+"The business plan for the ODL must address significant issues. There are, for example,",11.04,618.9076800000001,6,86,14,0,0,None
+enormous differences in the financial resources available to libraries mandated to provide,11.04,606.3110400000002,6,90,12,0,0,None
+"similar services. Some post-secondary and public libraries, particularly those in large urban",11.04,593.5929600000002,6,93,12,0,0,None
+"areas, have the facilities, funding and technological infrastructure necessary to service their",11.04,580.9963200000002,6,95,12,0,0,None
+"patrons with electronic services and resources. Many others, particularly in rural regions, do",11.04,568.3996800000002,6,94,13,0,0,None
+not. The proposal must indicate how these issues will be approached.,11.04,555.6816000000002,6,68,11,0,0,None
+Milestones,12.0,504.972,6,10,1,0,0,H3
+1) A preliminary report will be issued during June 2003.,11.04,476.71056000000004,6,56,10,0,1,None
+"2) It is expected that an Interim Report, suitable for distribution to the broader library",11.04,452.11344,6,90,15,0,1,None
+"community will be available by August 1, 2003 and that there will be an opportunity",11.04,439.39536000000004,6,83,15,0,0,None
+for responses to be evaluated.,11.04,426.79872000000006,6,30,5,0,0,None
+3) The business plan must be completed and approved by the ODL Steering Committee,11.04,402.0801600000001,6,81,14,0,1,None
+"no later than September 30, 2003.",11.04,389.4835200000001,6,33,6,0,0,None
+Approach and Specific Proposal Requirements,12.0,351.49199999999996,6,43,5,0,0,H2
+The firm/consultant (or proposed team of consultants) will be expected to work closely with,11.04,323.11056,6,91,14,0,0,None
+the ODL Steering Committee. Terms of reference for the Committee are in the appendix.,11.04,310.51392000000004,6,85,14,0,0,None
+"Given the consultative nature of this business planning process, the firm/consultant will also",11.04,297.79584000000006,6,94,13,0,0,None
+be expected to travel and communicate regularly with various stakeholders as well as with,11.04,285.1992000000001,6,89,14,0,0,None
+electronic resource publishers/vendors.,11.04,272.6025600000001,6,39,3,0,0,None
+The proposal should include the following information:,11.04,247.88400000000007,6,54,7,0,0,None
+a) name of the firm/consultant,11.04,223.28688000000008,6,30,5,0,0,None
+"b) names of those individuals who will be engaged in this project, their specific",11.04,210.5688000000001,6,81,14,0,0,None
+responsibilities on this project and relevant experience/qualifications,11.04,197.9721600000001,6,71,7,0,0,None
+c) description of similar engagements that highlight the firm’s experience in business,11.04,185.37552000000008,6,86,12,0,0,None
+planning and building stakeholder commitment,11.04,172.6574400000001,6,44,5,0,0,None
+d) references with details of work completed for these references,11.04,160.06080000000009,6,65,10,0,0,None
+"e) description of the approach that will be used for completing the business plan,",11.04,147.3427200000001,6,82,14,0,0,None
+including a timeline,11.04,134.7460800000001,6,20,3,0,0,None
+"f) cost to complete the study including estimated expenses (i.e.: travel, etc.) and payment",11.04,122.1494400000001,6,91,14,0,0,None
+structure,11.04,109.4313600000001,6,9,1,0,0,None
+RFP: To Develop the Ontario Digital Library Business Plan,7.56,49.52484,6,57,9,0,0,None
+March 2003,7.56,49.52484,6,10,2,0,0,None
+7777,9.0,48.0961,6,4,1,0,1,None
+Evaluation and Awarding of Contract,12.0,694.092,7,35,5,0,0,H2
+The contract will be awarded to the bidder whose submission offers the best value; the contract will,11.04,656.83056,7,100,17,0,0,None
+not necessarily be awarded to the lowest bidder. We reserve the right not to award the contract to,11.04,644.11248,7,98,18,0,0,None
+any of the bidders responding to this RFP and we may seek further response.,11.04,631.51584,7,75,14,0,0,None
+"Specifically, proposals will be evaluated proposals according to the following criteria:",11.04,606.91872,7,88,11,0,0,None
+Quality of the proposal /approach outlined for undertaking the business planning process,11.04,569.48208,7,88,12,0,0,None
+Demonstrated experience,11.04,556.764,7,23,2,0,0,None
+"Cost, including expenses",11.04,544.16736,7,24,3,0,0,None
+Timeline and projected completion date,11.04,531.57072,7,38,5,0,0,None
+Other relevant factors as determined by the ODL Steering Committee,11.04,518.36688,7,66,10,0,0,None
+Questions regarding this RFP should be directed by e-mail only to Michael Ridley,11.04,493.05216,7,80,13,0,0,None
+(mridley@uoguelph.ca).,11.04,480.33408000000003,7,22,1,0,0,None
+Bidders are asked not to contact any other member of the ODL Catalyst Team or the ODL Steering,11.04,455.01936,7,94,18,0,0,None
+Committee.,11.04,442.42272,7,10,1,0,0,None
+RFP: To Develop the Ontario Digital Library Business Plan,7.56,49.52484,7,57,9,0,0,None
+March 2003,7.56,49.52484,7,10,2,0,0,None
+8888,9.0,48.0961,7,4,1,0,1,None
+Appendix A: ODL Envisioned Phases & Funding,12.0,667.572,8,43,7,0,0,H2
+Phase I: Business Planning,9.96,641.09874,8,26,4,0,0,H3
+Timeline: March 2003 – September 2003,9.96,618.06124,8,37,6,0,0,None
+"Funding Requested: ~$100,000 jointly funded by stakeholder groups and the provincial government.",9.96,606.53752,8,96,12,0,0,None
+Result: The ODL business plan,9.96,583.61958,8,29,5,0,0,None
+"The first phase will be to build the ODL business plan. This plan will clearly define the ODL’s services,",9.96,560.46258,8,105,19,0,0,None
+"funding and governance structures, as well as implementation plans for 2003-2005. It will also secure",9.96,548.93886,8,101,15,0,0,None
+the full commitment of all stakeholders and scope the operational plan for ODL for 2006 and beyond.,9.96,537.41514,8,99,17,0,0,None
+"Given the number and diversity of stakeholders involved, the business planning process must be a fully",9.96,514.49718,8,102,16,0,0,None
+consultative approach. To ensure that the planning results in a workable plan with the full commitment,9.96,502.9734599999999,8,102,16,0,0,None
+"of all stakeholders it must have competent, dedicated staffing and monies for the travel and",9.96,491.44973999999985,8,92,15,0,0,None
+communication components so critical in a consultative process.,9.96,479.9260199999998,8,63,8,0,0,None
+Phase II: Implementing and Transitioning,9.96,445.6038599999998,8,40,5,0,0,H3
+Timeline: April 2004 – December 2006,9.96,422.56633999999997,8,36,6,0,0,None
+Funding Requested: Funding from other states and provinces suggest that the ODL could receive,9.96,411.04261999999994,8,93,14,0,0,None
+"funding of up to $50 Million (over 3 years). Funding to be provided partnership of government, library",9.96,399.51893999999993,8,102,17,0,0,None
+stakeholders and other interested parties.,9.96,388.1147399999999,8,42,5,0,0,None
+Result: The ODL is implemented and validated,9.96,365.0772599999999,8,44,7,0,0,None
+The second phase will be to implement the ODL based on the business plan. This phase recognizes,9.96,341.9202599999999,8,95,17,0,0,None
+that for ODL to be optimally successful libraries must transition to a new way of doing business and,9.96,330.3965399999999,8,100,18,0,0,None
+providing services. The transition must occur while libraries continue to provide existing services and,9.96,318.9923399999999,8,103,14,0,0,None
+"respond to current challenges. This implementation phase will funded by a partnership of government,",9.96,307.4686199999999,8,100,14,0,0,None
+library stakeholders and other interested parties as a means to quickly jumpstart the ODL.,9.96,295.94489999999985,8,90,14,0,0,None
+The seed money requested will allow libraries to realign their budgets and services as the infrastructure,9.96,272.90741999999983,8,105,16,0,0,None
+"and content of the ODL is created and secured. Some of the funding will be new money, although there",9.96,261.5032199999998,8,100,19,0,0,None
+is every indication that existing budgets and methods of operating may be modified as a result of,9.96,250.09901999999983,8,97,17,0,0,None
+"recommendations. During this phase the polices, procedures, governance structures and accountability",9.96,238.57529999999983,8,100,11,0,0,None
+"mechanisms of the ODL will be put in place. Pilot projects will be initiated, evaluated and expanded.",9.96,226.93205999999984,8,101,17,0,0,None
+"Information resources will be identified, contracts for these resources will be negotiated and resources",9.96,215.40833999999984,8,104,14,0,0,None
+will be made deployed through the ODL. Regular evaluation during this phase will ensure the ODL is,9.96,203.88461999999984,8,98,17,0,0,None
+achieving its objectives and is accountable to its key communities.,9.96,192.36089999999984,8,67,10,0,0,None
+Phase III: Operating and Growing the ODL,9.96,169.56245999999985,8,40,7,0,0,H3
+Timeline: January 2007 -,9.96,146.52497999999986,8,24,4,0,0,None
+Funding: $50 Million annually ($35 Million requested from government),9.96,135.00122,8,69,9,0,0,None
+Result: The ODL is fully operational and sustainable,9.96,112.08325999999998,8,52,8,0,0,None
+In the third phase the ODL moves into the operational stage. Ontarians will experience the full benefits,9.96,88.92629999999994,8,104,17,0,0,None
+of the initiative and libraries will consolidate support around the ODL to grow resources and extend,9.96,77.40257999999994,8,100,16,0,0,None
+RFP: To Develop the Ontario Digital Library Business Plan,7.56,49.52484,8,57,9,0,0,None
+March 2003,7.56,49.52484,8,10,2,0,0,None
+9999,9.0,48.0961,8,4,1,0,1,None
+capabilities. The challenge is to secure resources sufficient to both sustain the original investments and,9.96,708.65844,9,106,15,0,0,None
+to enhance the ODL.,9.96,697.13472,9,19,4,0,0,None
+The ongoing funding of the ODL will be based on a partnership model involving all the key participants,9.96,674.21676,9,102,18,0,0,None
+"(i.e. government, libraries, donors, public and private sectors). All participants (i.e. beneficiaries) are",9.96,662.69302,9,107,13,0,0,None
+expected to make financial contributions to the ODL. It is important in achieving the full impact of the,9.96,651.1693,9,104,18,0,0,None
+"ODL on Ontario’s economy, society and learning support that all library sectors are participants",9.96,639.64558,9,96,14,0,0,None
+"(university, colleges, public libraries and schools).",9.96,628.12186,9,53,6,0,0,None
+"The proposed funding model requires a continuing government investment, but also recognizes that as",9.96,610.60222,9,99,14,0,0,None
+the ODL matures a growing share of ODL funding will come from libraries and non-governmental,9.96,599.1980400000001,9,92,15,0,0,None
+sources. During the 3-year implementation phase (2004 – 2006) libraries will realign their budgets to,9.96,587.6743200000001,9,101,15,0,0,None
+enable ongoing funding contributions to ODL. During the same period ODL must build the proposed,9.96,576.1506,9,95,15,0,0,None
+endowment and secure public and private sector gifts and/or in-kind contributions. The following chart,9.96,564.62688,9,102,14,0,0,None
+outlines the model. This model is based on these assumptions:,9.96,553.10316,9,61,10,0,0,None
+that ODL expenditures will increase by 50% over a 10 year period,9.96,535.58352,9,64,12,0,0,None
+that government funding will decrease from 70% to 45% during that 10 year period,9.96,518.1834,9,80,14,0,0,None
+"that library contributions, endowment and gifts/in-kind funding will increase from 30% to 55%",9.96,500.66375999999997,9,93,13,0,0,None
+during the same period,9.96,489.14003999999994,9,22,4,0,0,None
+OVERVIEW OF ODL FUNDING MODEL,9.96,460.21619999999996,9,29,5,1,0,None
+Funding Source,12.0,434.50800000000004,9,14,2,0,0,None
+Government,9.96,422.45844,9,10,1,0,0,None
+Libraries,9.96,410.45664,9,9,1,0,0,None
+Endowment,9.96,398.45484,9,9,1,0,0,None
+Gifts/In-Kind,9.96,386.45304,9,13,1,0,0,None
+TOTAL ANNUAL,9.96,374.57076,9,12,2,1,0,None
+2007,12.0,434.50800000000004,9,4,1,0,1,None
+$35M (70%),9.96,422.45844,9,10,2,1,0,None
+$10M (20%),9.96,410.45664,9,10,2,1,0,None
+$4.5M (9%),9.96,398.45484,9,10,2,1,0,None
+$0.5M (1%),9.96,386.45304,9,10,2,1,0,None
+$50M,9.96,374.45124,9,4,1,1,0,None
+2017,12.0,434.50800000000004,9,4,1,0,1,None
+$33.75M (45%),9.96,422.45844,9,13,2,1,0,None
+$22.5M (30%),9.96,410.45664,9,12,2,1,0,None
+$15M (20%),9.96,398.45484,9,10,2,1,0,None
+$3.75M (5%),9.96,386.45304,9,11,2,1,0,None
+$75M,9.96,374.45124,9,4,1,1,0,None
+"While the private sector will be invited to participate in the ODL through the endowment, gifts and in-",9.96,339.41195999999997,9,103,18,0,0,None
+"kind contributions, the ODL will also explore compatible commercial services which leverage the reach",9.96,327.88823999999994,9,101,14,0,0,None
+of the ODL and help to offset operating costs.,9.96,316.3645199999999,9,46,9,0,0,None
+A $50M budget leverages the consortium buying power of the province’s libraries to secure the best,9.96,293.3270399999999,9,98,16,0,0,None
+"prices for information resources, the widest accessibility and the most favourable contracts. A budget of",9.96,281.9228399999999,9,105,15,0,0,None
+this nature will ensure a core digital collection of sufficient scope and coverage to address a substantial,9.96,270.39911999999987,9,107,17,0,0,None
+amount of the wide and diverse information and learning needs of the citizens of Ontario (an overview,9.96,258.87539999999984,9,101,17,0,0,None
+of the nature of the ODL digital collection is appended). The proposed ODL expenditures in 2006,9.96,247.35167999999985,9,95,16,0,0,None
+represent an investment of $5.00 per citizen.,9.96,235.82795999999985,9,45,7,0,0,None
+It is important to recognize that every new dollar per citizen invested in the Ontario Digital Library has a,9.96,212.90999999999985,9,108,19,0,0,None
+double benefit: it supports a province-wide library of high quality information resources and it,9.96,201.38627999999986,9,96,14,0,0,None
+strengthens every local library in Ontario by allowing them to reinvest existing dollars in new resources,9.96,189.86255999999986,9,105,16,0,0,None
+that enhance local services. This multiplier means that for every dollar invested in ODL the return,9.96,178.33883999999986,9,99,16,0,0,None
+on investment is worth $2 of value for Ontario.,9.96,166.81511999999987,9,47,9,0,0,None
+RFP: To Develop the Ontario Digital Library Business Plan,7.56,49.52484,9,57,9,0,0,None
+March 2003,7.56,49.52484,9,10,2,0,0,None
+10101010,9.0,48.0961,9,8,1,0,1,None
+Appendix B:,12.0,682.572,10,11,2,0,0,None
+ODL Steering Committee Terms of Reference,12.0,682.572,10,41,6,0,0,None
+1. Preamble,9.96,644.09874,10,11,2,0,1,H3
+Implementation of the Ontario Digital Library (ODL) requires a detailed business plan to be developed,9.96,620.94174,10,101,15,0,0,None
+and supported by its diverse stakeholder communities (see: www.odl.on.ca). The business,9.96,609.53754,10,87,11,0,0,None
+"development planning and commitment process will be overseen by a Steering Committee, who are",9.96,598.01382,10,93,14,0,0,None
+accountable to potential ODL funders including the Province of Ontario.,9.96,586.4901,10,71,10,0,0,None
+2. Terms of Reference,9.96,563.57214,10,21,4,0,1,H3
+"In broad terms, the ODL Business Plan Steering Committee is responsible for development of the",9.96,540.53466,10,94,15,0,0,None
+"business plan, securing sector support, and management of the planners and process. Specific",9.96,529.01094,10,92,13,0,0,None
+responsibilities include:,9.96,517.48722,10,25,2,0,0,None
+"2.1 developing a detailed business plan for the three-year implementation phase of the ODL, including",9.96,494.4497399999999,10,101,15,0,1,None
+"governance, management, funding model and structure, organizational structure, marketing,",9.96,483.0455399999999,10,89,9,0,0,None
+"staffing, and evaluation;",9.96,471.5218199999999,10,25,3,0,0,None
+"2.2 consulting with and reporting to stakeholder communities, to ensure open, consistent and two-way",9.96,459.99809999999985,10,100,14,0,1,None
+"communication, and to ensure meaningful opportunities for stakeholder input into decision-",9.96,448.4743799999998,10,90,11,0,0,None
+making;,9.96,436.9506599999998,10,7,1,0,0,None
+2.3 recruiting and managing the business planner(s);,9.96,425.4269399999998,10,52,7,0,1,None
+"2.4 defining terms of reference and resource parameters for business planner(s), and authorizing",9.96,414.02273999999977,10,96,13,0,1,None
+expenditures;,9.96,402.49901999999975,10,13,1,0,0,None
+2.5 serving as a focus group for business planner(s) to test ideas;,9.96,390.9752999999997,10,67,12,0,1,None
+2.6 providing signoff for business planner(s) at key decision points of business plan development;,9.96,379.4515799999997,10,98,14,0,1,None
+"2.7 securing commitment from library, government, and institutional stakeholders for implementation",9.96,367.92785999999967,10,99,11,0,1,None
+of the business plan;,9.96,356.40413999999964,10,21,4,0,0,None
+2.8 presenting the business plan to funders,9.96,344.99993999999964,10,43,7,0,1,None
+2.9 undertaking advocacy efforts to promote the ODL to the broader communities including library,9.96,333.4762199999996,10,96,14,0,1,None
+and education communities.,9.96,321.9524999999996,10,26,3,0,0,None
+3. Membership,9.96,299.0345399999996,10,13,2,0,1,H3
+"Each of the four sectors, Schools, Colleges, Universities, and Public Libraries can appoint up to two",9.96,275.9970599999996,10,101,16,0,0,None
+representatives to the steering committee,9.96,264.47333999999955,10,41,5,0,0,None
+3.1 Schools:,9.96,241.43585999999954,10,12,2,0,1,None
+- Ontario School Library Association (OSLA) and The Association of Library Consultants and,9.96,229.91213999999954,10,90,13,0,0,None
+Coordinators of Ontario (TALCO) (Executive Council of OSLA to name representative in,9.96,218.62745999999953,10,84,12,0,0,None
+consultation with TALCO),9.96,207.10373999999953,10,24,3,0,0,None
+3.2 Universities:,9.96,195.46049999999954,10,17,2,0,1,None
+- Ontario Council of University Libraries (OCUL) (OCUL to name),9.96,184.05629999999954,10,63,10,0,0,None
+3.3 Colleges:,9.96,172.41305999999955,10,13,2,0,1,None
+"- Bibliocentre, and Heads of Libraries and Learning Resources (UAG and HLLR to name)",9.96,161.00885999999954,10,84,14,0,0,None
+3.4 Public libraries:,9.96,149.48513999999955,10,21,3,0,1,None
+"- Administrators of Medium-sized Public Libraries of Ontario (AMPLO), Administrators of Rural",9.96,137.96141999999955,10,93,12,0,0,None
+"Urban Public Libraries of Ontario (ARUPLO), Administrators of Small Public Libraries of",9.96,126.43769999999955,10,87,12,0,0,None
+Ontario (ASPLO) and Chief Executives of Large-sized Public Libraries of Ontario (CELPLO),9.96,114.91397999999955,10,88,12,0,0,None
+"(Executives of AMPLO, ARUPLO, ASPLO and CELPLO to name)",9.96,103.50977999999955,10,55,9,0,0,None
+RFP: To Develop the Ontario Digital Library Business Plan,7.56,49.52484,10,57,9,0,0,None
+March 2003,7.56,49.52484,10,10,2,0,0,None
+11111111,9.0,48.0961,10,8,1,0,1,None
+3.5 Ontario Library Association representative (ex-officio) (OLA to appoint one representative),9.96,708.7488000000001,11,95,11,0,1,None
+- Role of the OLA ex-officio member: To act as a liaison between the steering committee and,9.96,697.1055600000001,11,91,17,0,0,None
+"the OLA Board, and to assist the chair with the administrative responsibilities connected with",9.96,685.58184,11,94,14,0,0,None
+"the preparation of the business plan, finance, and communications.",9.96,674.1776400000001,11,66,9,0,0,None
+"3.6 It is anticipated that as planning for the ODL evolves, the Steering Committee may, at its",9.96,651.1401600000002,11,94,17,0,1,None
+"discretion, call on invited experts to advise on issues as required.",9.96,639.6164400000001,11,68,11,0,0,None
+4. Appointment Criteria and Process,9.96,616.6984800000001,11,35,5,0,1,H3
+4.1 Groups and organizations named in Section 3 above are responsible for appointing up to two,9.96,593.0534400000001,11,94,16,0,1,None
+representatives to the Steering Committee.,9.96,581.0516400000001,11,42,5,0,0,None
+4.2,9.96,557.0480400000001,11,3,1,0,1,None
+Desired characteristics for steering committee appointees include:,9.96,557.0480400000001,11,66,7,0,0,None
+• Strategic thinkers;,9.96,532.9249200000002,11,21,3,0,0,None
+• Committed to the concept of multi-sector partnerships;,9.96,520.6840800000001,11,56,8,0,0,None
+• Knowledgeable about digital libraries and resources;,9.96,508.56276,11,54,7,0,0,None
+• Knowledgeable about government structures;,9.96,496.32192000000003,11,44,5,0,0,None
+• Respected by their communities; influential;,9.96,484.2006,11,46,6,0,0,None
+• Able to take a consultative approach;,9.96,472.07928,11,39,7,0,0,None
+• Able to devote time to Steering Committee business: approximately one day per month for,10.01,457.85844,11,89,15,0,0,None
+meetings plus 2-3 working days per month on related activities.,10.02,444.228,11,63,10,0,0,None
+5. Term,9.96,421.25874,11,7,2,0,1,H3
+Expected term on the Steering Committee is the time required to complete development of the,9.96,398.10174,11,91,15,0,0,None
+business plan plus two months. This process is expected to take approximately 6 months.,9.96,386.69754,11,87,14,0,0,None
+6. Chair,9.96,363.77958,11,8,2,0,1,H3
+Chair will be appointed by the Board of the Ontario Library Association.,9.96,340.62258,11,72,12,0,0,None
+Role of the Chair:,9.96,315.42378,11,18,4,0,0,None
+In addition to the characteristics for appointees (4.2) the role of the chair will be as a process agent,9.96,292.3863,11,104,19,0,0,None
+"working with the selected consultant(s), OLA, and the Steering Committee to prepare the business",9.96,280.86258,11,96,14,0,0,None
+plan. The chair must be able to devote 5-8 days per month on activities related to the preparation of,9.96,269.33885999999995,11,101,19,0,0,None
+"the business plan, and communications to stakeholders, funders, and government.",9.96,257.81513999999993,11,79,10,0,0,None
+7. Meetings,9.96,235.01669999999993,11,11,2,0,1,H3
+It is expected that in person meetings are held once per month and the majority of business will be,9.96,211.85969999999992,11,99,19,0,0,None
+"conducted by e-mail, and teleconference.",9.96,200.33597999999992,11,40,5,0,0,None
+8. Lines of Accountability and Communication,9.96,177.53753999999992,11,44,6,0,1,H3
+"8.1 The Steering Committee is accountable to the Province of Ontario, and to its business plan",9.96,154.3805399999999,11,94,16,0,1,None
+funders.,9.96,142.8568199999999,11,8,1,0,0,None
+8.2 The role of the Ontario Library Association is to assume responsibility for funds contributed by the,9.96,119.81933999999991,11,104,17,0,1,None
+"ODL funders to finance the business plan, to hold the funds in a separate account, and",9.96,108.41513999999991,11,86,16,0,0,None
+disperse them for purposes as directed by the Steering Committee. OLA will provide,9.96,96.89141999999991,11,82,13,0,0,None
+financial reports to the Steering Committee as requested and shall comply with all,9.96,85.36769999999991,11,82,13,0,0,None
+government reporting regulations for funds received.,9.96,73.84397999999992,11,52,6,0,0,None
+RFP: To Develop the Ontario Digital Library Business Plan,7.56,49.52484,11,57,9,0,0,None
+March 2003,7.56,49.52484,11,10,2,0,0,None
+12121212,9.0,48.0961,11,8,1,0,1,None
+8.3 The Steering Committee is accountable to its constituent groups and other stakeholders for,9.96,697.1148000000001,12,94,14,0,1,None
+ongoing communications and consultation on issues and progress. The Steering committee,9.96,685.59108,12,86,11,0,0,None
+is responsible for strong liaison with government particularly the Chief Information Officer,9.96,674.1868800000001,12,92,12,0,0,None
+"Community Services Cluster, ADM’s and Deputy Ministers.",9.96,662.6631600000001,12,55,7,0,0,None
+9. Financial and Administrative Policies,9.96,639.7452000000001,12,40,5,0,1,H3
+9.1 Service on the Steering Committee is non-remunerative,9.96,616.5882,12,57,8,0,1,None
+9.2 Travel and meeting expenses for Steering Committee members are reimbursed according to the,9.96,605.1840000000001,12,94,14,0,1,None
+policies of the Ontario Library Association,9.96,593.6602800000001,12,43,6,0,0,None
+9.3 Conflict of Interest:,9.96,582.13656,12,25,4,0,1,None
+The ODL Steering Committee will function according to standard conflict of interest guidelines,9.96,570.61284,12,94,13,0,0,None
+"ensuring that members, their immediate family members, or their places of employment, will",9.96,559.08912,12,90,13,0,0,None
+not benefit financially from the decisions the Steering Committee might make. As a first,9.96,547.5654,12,88,14,0,0,None
+"order of business, the Steering Committee will be expected to adopt a conflict of interest policy",9.96,536.1612,12,97,16,0,0,None
+statement and procedural guidelines that will govern its work.,9.96,524.63748,12,62,9,0,0,None
+RFP: To Develop the Ontario Digital Library Business Plan,7.56,49.52484,12,57,9,0,0,None
+March 2003,7.56,49.52484,12,10,2,0,0,None
+13131313,9.0,48.0961,12,8,1,0,1,None
+Appendix C:,12.0,682.572,13,11,2,0,0,None
+ODL’s Envisioned Electronic Resources,12.0,682.572,13,37,4,0,0,None
+The purpose of the ODL is to provide equal access to information for all Ontario citizens through,9.96,643.97874,13,97,17,0,0,None
+collaboration and resource sharing. ODL will be a portal - capable of customization as,9.96,632.45502,13,86,14,0,0,None
+"a home page for local libraries - to organized, comprehensive, authoritative and validated",9.96,620.9313,13,90,13,0,0,None
+e-information resources to meet the needs of all Ontario citizens at all stages and in all aspects,9.96,609.5271,13,98,17,0,0,None
+"of their education, life and work. Some examples:",9.96,598.00338,13,49,8,0,0,None
+1. Reference Resources,9.96,574.9659,13,22,3,0,1,None
+"- directories: companies, associations, organizations, governments, educational institutions,",9.96,551.9284200000001,13,93,8,0,0,None
+etc. etc.,9.96,540.5242200000001,13,9,2,0,0,None
+"- almanacs, country information",9.96,529.0005000000001,13,31,4,0,0,None
+"- dictionaries, thesauri, encyclopedias",9.96,517.4767800000001,13,39,4,0,0,None
+-consumer information,9.96,505.95306,13,21,2,0,0,None
+"- phone books,",9.96,494.42933999999997,13,14,3,0,0,None
+"- travel guides, entertainment guides",9.96,483.02513999999996,13,37,5,0,0,None
+- weather information,9.96,471.50141999999994,13,21,3,0,0,None
+- media/newspapers,9.96,459.9776999999999,13,18,2,0,0,None
+"- leisure time, recreational activity guides",9.96,448.4539799999999,13,44,6,0,0,None
+- indexing and abstracting services,9.96,436.93025999999986,13,35,5,0,0,None
+"- currency converters,",9.96,425.40653999999984,13,22,3,0,0,None
+- virtual reference services,9.96,414.00233999999983,13,28,4,0,0,None
+-vocational/career information,9.96,402.4786199999998,13,30,2,0,0,None
+-internet search engines,9.96,390.9548999999998,13,24,3,0,0,None
+-current awareness services,9.96,379.43119999999993,13,27,3,0,0,None
+2. Subject Guides,9.96,356.39374,13,17,3,0,1,None
+-arts and humanities,9.96,333.47578,13,20,3,0,0,None
+- business and economics,9.96,321.95201999999995,13,24,4,0,0,None
+- education,9.96,310.4282999999999,13,11,2,0,0,None
+-recreation and sports,9.96,298.9045799999999,13,22,3,0,0,None
+"-entertainment - games, activities for kids",9.96,287.50034,13,43,6,0,0,None
+-health information,9.96,275.97661999999997,13,19,2,0,0,None
+-science and technology,9.96,264.45289999999994,13,23,3,0,0,None
+-social sciences,9.96,252.92917999999995,13,16,2,0,0,None
+-society and culture,9.96,241.40545999999995,13,20,3,0,0,None
+3. Educational tool-kits,9.96,218.48749999999995,13,24,3,0,1,None
+"-guides to information gathering methodologies, information literacy",9.96,195.45001999999994,13,68,7,0,0,None
+-study guides,9.96,183.9263399999999,13,13,2,0,0,None
+-study skill development,9.96,172.4026199999999,13,24,3,0,0,None
+-web-based curricula,9.96,160.8788999999999,13,20,2,0,0,None
+-internet search guides,9.96,149.47469999999998,13,23,3,0,0,None
+"4. Journals, books, maps, music etc.",9.96,126.43721999999997,13,36,6,0,1,None
+RFP: To Develop the Ontario Digital Library Business Plan,7.56,49.52484,13,57,9,0,0,None
+March 2003,7.56,49.52484,13,10,2,0,0,None
+14141414,9.0,48.0961,13,8,1,0,1,None
+Parsippany -Troy Hills STEM Pathways,28.01,726.62319585,0,36,5,0,0,H1
+Mission Statement: To provide PTHSD high school students with the opportunity to,12.52,685.8685093211,0,80,12,0,0,None
+"concentrate their studies, beyond those required in high school, in the areas of science,",12.0,671.248736,0,89,14,0,0,None
+"technology, engineering, and mathematics, and expose students to relevant real world",12.0,656.993036,0,84,11,0,0,None
+"experiences through project work, conferences and presentations to enhance their high school",12.0,642.7373359999999,0,92,12,0,0,None
+experience.,12.0,628.4816359999999,0,11,1,0,0,None
+Goals:,14.01,591.9174908922,0,6,1,0,0,None
+"• Inspire keen interest in mathematics, science, engineering, and",11.51,569.2216625499999,0,65,9,0,0,None
+"technology, develop strong scholarship in the subject and",11.51,555.7108625499999,0,57,8,0,0,None
+promote the enjoyment of these studies in high school.,11.51,542.2000625499999,0,54,9,0,0,None
+• Expose students to potential career opportunities in the field.,11.51,528.69116255,0,65,10,0,0,None
+• Encourage students to pursue higher education and major in,11.51,515.1803625499999,0,60,10,0,0,None
+STEM careers.,11.51,501.66956254999997,0,13,2,0,0,None
+• Promote interactions with STEM professionals to learn about,11.51,488.15876254999995,0,61,9,0,0,None
+future opportunities.,11.51,474.64796254999993,0,21,2,0,0,None
+• Support field experiences connected to the world outside of,11.51,461.13716254999997,0,61,10,0,0,None
+the school building.,11.51,447.62636254999995,0,20,3,0,0,None
+"• Signal to employers, universities, training programs, and",11.51,434.11556254999994,0,59,8,0,0,None
+military that a student has completed a comprehensive course,11.51,420.6047625499999,0,60,9,0,0,None
+of study in a specialized area.,11.51,407.09396254999996,0,31,6,0,0,None
+"• Cultivate transferable work habits such as perseverance, goal",11.51,393.58316254999994,0,63,9,0,0,None
+"setting, and self-direction.",11.51,380.0723625499999,0,28,3,0,0,None
+PATHWAY OPTIONS,15.31,334.76594176,0,15,2,1,0,H2
+REGULAR PATHWAY,15.31,308.93525000000005,0,15,2,1,0,None
+4 credits of Math,11.01,278.559207465,0,17,4,0,1,None
+4 credits of Science,11.01,265.05020746499997,0,20,4,0,1,None
+4 credits of STEM-designated electives,11.01,251.54120746499999,0,38,5,0,1,None
+● Maintain an overall 2.85 GPA,11.01,238.032207465,0,30,6,0,0,None
+Participate in a minimum of 3 STEM,11.01,224.523207465,0,34,7,0,0,None
+presentations/conferences each year,11.01,211.01420746500003,0,35,3,0,0,None
+with a required minimum total of 12,11.01,197.50520746500004,0,35,7,0,0,None
+presentations/conferences throughout,11.01,183.99620746500005,0,36,2,0,0,None
+the 4 years. *,11.01,170.487207465,0,14,4,0,0,None
+Join and actively participate in a,11.01,156.97820746500003,0,34,6,0,0,None
+STEM-related extracurricular activity or,11.01,143.46920746500004,0,40,4,0,0,None
+club every year of attendance. -,11.01,129.96020746500005,0,32,6,0,0,None
+DISTINCTION PATHWAY,15.31,308.93525000000005,0,19,2,1,0,None
+4 credits of Math - At least one math,11.01,296.570507465,0,37,9,0,1,None
+course should be an AP Math class.,11.01,283.061507465,0,34,7,0,0,None
+4 credits of Science- At least one,11.01,269.55250746499996,0,34,7,0,1,None
+science course should be an AP,11.01,256.04350746499995,0,30,6,0,0,None
+Science class.,11.01,242.53450746500002,0,14,2,0,0,None
+4 credits of STEM-designated electives,11.01,229.02550746500003,0,38,5,0,1,None
+- One must be a Computer,11.01,215.51650746500005,0,24,6,0,0,None
+Science/Technology Class,11.01,202.007507465,0,24,2,0,0,None
+● Maintain an overall 3.5 GPA,11.01,188.49850746500002,0,29,6,0,0,None
+Participate in a minimum of 3 STEM,11.01,174.98950746500003,0,34,7,0,0,None
+presentations/conferences a year with a,11.01,161.48050746500004,0,39,5,0,0,None
+required minimum total of 12,11.01,147.97150746500006,0,28,5,0,0,None
+presentations/conferences throughout,11.01,134.46250746500007,0,36,2,0,0,None
+the 4 years.,11.01,120.95350746500006,0,12,3,0,0,None
+Join and actively participate in a,11.01,107.44450746500006,0,34,6,0,0,None
+STEM-related extracurricular activity or,11.01,93.93550746500006,0,40,4,0,0,None
+club every year of attendance.,11.01,80.42650746500006,0,30,5,0,0,None
+Either participate in an internship or,11.01,66.91750746500006,0,38,6,0,0,None
+design and implement a community,11.01,53.408507465000056,0,32,5,0,0,None
+impact project.,11.01,39.899507465000056,0,15,2,0,0,None
+Elective Course Offerings,22.01,722.0865670931462,1,25,3,0,0,H2
+Science,12.0,690.139,1,7,1,0,0,None
+Math,12.0,690.139,1,4,1,0,0,None
+Computer Science/,12.0,690.139,1,17,2,0,0,None
+Technology,12.0,675.8833,1,10,1,0,0,None
+Art,12.0,690.139,1,3,1,0,0,None
+Applied,12.0,690.139,1,7,1,0,0,None
+Technology/,12.0,675.8833,1,11,1,0,0,None
+Family Consumer,12.0,661.6275999999999,1,15,2,0,0,None
+Science and Other,12.0,647.3718999999999,1,17,3,0,0,None
+AP Biology,11.0,627.1229911749998,1,10,2,0,0,None
+AP Chemistry,11.0,613.6175911749998,1,12,2,0,0,None
+AP Physics C,11.0,600.1121911749998,1,12,3,0,0,None
+Forensics,11.0,586.6067911749998,1,9,1,0,0,None
+Honors Anatomy,11.0,573.1013911749998,1,14,2,0,0,None
+and Physiology,11.0,559.5959911749998,1,14,2,0,0,None
+AP Environmental,11.0,546.090637475,1,16,2,0,0,None
+Science,11.0,532.585237475,1,7,1,0,0,None
+• Marine Biology,11.0,519.079837475,1,16,3,0,0,None
+• MythBusting: The,11.0,451.552837475,1,18,3,0,0,None
+Organic Chemistry,11.0,505.574437475,1,17,2,0,0,None
+Genetics,11.0,492.069037475,1,8,1,0,0,None
+Astronomy,11.0,478.563637475,1,9,1,0,0,None
+Bioethics,11.0,465.058237475,1,9,1,0,0,None
+Science of,11.0,438.047437475,1,10,2,0,0,None
+Literature and,11.0,424.542037475,1,14,2,0,0,None
+Films,11.0,411.03663747499996,1,5,1,0,0,None
++AP Calculus,9.73,628.735112521,1,12,2,0,0,None
++AP Statistics,9.77,616.730512521,1,14,2,0,0,None
++Calculus,9.63,604.726012521,1,9,1,0,0,None
+"Probability,",10.0,592.721212521,1,12,1,0,0,None
+"Statistics,",10.0,580.7164125209999,1,11,1,0,0,None
+and Discrete,10.0,568.7116125209999,1,12,2,0,0,None
+Math,10.0,556.7068125209998,1,4,1,0,0,None
++Precalculus,9.73,544.703412521,1,12,1,0,0,None
+Algebra 3 &,10.0,532.698612521,1,11,3,0,0,None
+Trigonometry,10.0,520.6938125209999,1,12,1,0,0,None
+Applied Math,10.0,508.68901252099994,1,12,2,0,0,None
+Honors,10.0,496.68421252099995,1,6,1,0,0,None
+Accounting 1,10.0,484.67941252099996,1,12,2,0,0,None
+Investments,10.0,472.674612521,1,11,1,0,0,None
+Economics,10.0,448.665012521,1,9,1,0,0,None
+Business,10.0,436.660212521,1,8,1,0,0,None
+Org.,10.0,424.655412521,1,4,1,0,0,None
+Management,10.0,412.650612521,1,10,1,0,0,None
+Computer,11.0,627.124002575,1,8,1,0,0,None
+Programming in C++,11.0,613.618602575,1,18,3,0,0,None
+Robotics,11.0,600.1132374749999,1,8,1,0,0,None
+Computer Science and,11.0,586.6078374749999,1,20,3,0,0,None
+Programming Concepts,11.0,573.1024374749999,1,20,2,0,0,None
+with Python,11.0,559.597037475,1,11,2,0,0,None
+AP Computer Science,11.0,546.091637475,1,19,3,0,0,None
+Principles,11.0,532.586237475,1,10,1,0,0,None
+AP Computer Science A,11.0,519.080837475,1,21,4,0,0,None
+Honors Data Structures,11.0,505.575437475,1,22,3,0,0,None
+and Advanced,11.0,492.070037475,1,12,2,0,0,None
+Programming,11.0,478.564637475,1,11,1,0,0,None
+Networks (CCNA cert),10.0,465.70961252099994,1,20,3,0,0,None
+"Switching, Routing, &",10.0,452.20421252099993,1,21,3,0,0,None
+Wireless Essentials,10.0,439.65919652099996,1,19,2,0,0,None
+(CCNA cert),10.0,427.65439652099997,1,11,2,0,0,None
+Cybersecurity (CCNA,10.0,414.68921252099994,1,19,2,0,0,None
+cert),10.0,402.14419652099997,1,5,1,0,0,None
+• Graphic,10.0,628.732545621,1,9,2,0,0,None
+Design,10.0,616.7277456209999,1,6,1,0,0,None
+• Digital,10.0,604.7229456209999,1,9,2,0,0,None
+Photography,10.0,592.7181456209998,1,11,1,0,0,None
+Advanced,10.0,580.7133456209998,1,8,1,0,0,None
+Digital,10.0,568.7085456209998,1,7,1,0,0,None
+Photography,10.0,556.7037456209997,1,11,1,0,0,None
+***AP,10.0,448.6672983209997,1,5,1,1,0,None
+Captsone -,10.0,436.6624983209997,1,10,2,0,0,None
+Seminar and,10.0,424.6576983209997,1,11,2,0,0,None
+Research w/,10.0,412.6528983209997,1,11,2,0,0,None
+advisor,10.0,400.64809832099974,1,7,1,0,0,None
+approval,10.0,388.64329832099975,1,8,1,0,0,None
+• Nutrition for an,10.0,628.7355468209997,1,18,4,0,0,None
+Active Lifestyle,10.0,616.7307468209997,1,16,2,0,0,None
+Engineering,10.0,604.7259468209996,1,11,1,0,0,None
+CAD and Design,10.0,592.7211468209996,1,14,3,0,0,None
+Foundations,10.0,580.7163468209995,1,11,1,0,0,None
+Television,10.0,568.7107965209995,1,10,1,0,0,None
+Production I / II,10.0,556.7059965209994,1,17,4,0,0,None
+• Careers in,10.0,544.7011965209994,1,12,3,0,0,None
+Medicine (Phys,10.0,532.6963965209993,1,14,2,0,0,None
+Ed department),10.0,520.6915965209993,1,14,2,0,0,None
+• Woods Tech 1,10.0,508.686712521,1,14,4,0,0,None
+and 2,10.0,496.681912521,1,5,2,0,0,None
+• Honors,10.0,484.677112521,1,8,2,0,0,None
+Engineering and,10.0,472.67231252100004,1,15,2,0,0,None
+Design,10.0,460.66751252100005,1,6,1,0,0,None
+What Colleges Say!,18.01,293.60542,1,18,3,0,0,H3
+"When asked the question, “Would participation in the",11.01,266.05713744999997,1,52,8,0,0,None
+STEM Pathways set PTHSD students apart when applying,11.01,252.54633744999998,1,52,8,0,0,None
+"to your school?”, colleges responded with the following:",11.01,239.03553745,1,56,8,0,0,None
+"Drew University: “Yes,it would show that they are",11.01,266.05713744999997,1,49,8,0,0,None
+challenging themselves in the classroom.”,11.01,252.54633744999998,1,41,5,0,0,None
+SUNY Binghamton: “Yes. We are a R1 research institution,11.01,212.01393745,1,55,9,0,0,None
+and students with a strong STEM curriculum that includes,11.01,198.50313745,1,56,9,0,0,None
+research or lab work are generally more competitive in our,11.01,184.99233745,1,58,10,0,0,None
+applicant pool and more success as students at,11.01,171.48153745000002,1,46,8,0,0,None
+Binghamton because of their early HS experience.”,11.01,157.97073745000003,1,49,7,0,0,None
+NJIT: “Yes- this would demonstrate to Admissions that a,11.01,225.52473744999998,1,55,9,0,0,None
+"student is interested in STEM programs, and would be a",11.01,212.01583745,1,54,10,0,0,None
+strong candidate for our programs.”,11.01,198.50503745,1,35,5,0,0,None
+"Ithaca College: “Yes, we look for students who participate",11.01,171.48343745,1,58,9,0,0,None
+in classes and activities that enhance their knowledge and,11.01,157.97263745,1,58,9,0,0,None
+skills in their area of interest.”,11.01,144.46183745000002,1,34,6,0,0,None
+Towson University: “Participation in this program would,11.01,130.94913745000002,1,55,7,0,0,None
+show us that the student is challenging him/herself in their,11.01,117.43833745,1,60,10,0,0,None
+courses which is something we look at when reviewing,11.01,103.92753745,1,52,9,0,0,None
+applications.”,11.01,90.41673745,1,14,1,0,0,None
+Montclair University: “Rigorous math and science lab,11.01,117.44023745000003,1,52,7,0,0,None
+classes beyond standard curriculum could be looked at for,11.01,103.92943745,1,57,9,0,0,None
+scholarship eligibility along with high GPA.”,11.01,90.41863744999999,1,45,6,0,0,None
+For more information and our application please visit our website by clicking here.,12.01,58.150756,1,83,13,0,0,None
