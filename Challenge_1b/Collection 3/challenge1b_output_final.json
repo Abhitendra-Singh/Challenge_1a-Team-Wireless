@@ -1,0 +1,79 @@
+{
+    "metadata": {
+        "input_documents": [
+            "Breakfast Ideas.pdf",
+            "Dinner Ideas - Mains_1.pdf",
+            "Dinner Ideas - Mains_2.pdf",
+            "Dinner Ideas - Mains_3.pdf",
+            "Dinner Ideas - Sides_1.pdf",
+            "Dinner Ideas - Sides_2.pdf",
+            "Dinner Ideas - Sides_3.pdf",
+            "Dinner Ideas - Sides_4.pdf",
+            "Lunch Ideas.pdf"
+        ],
+        "persona": "Food Contractor",
+        "job_to_be_done": {
+            "task": "Prepare a vegetarian buffet-style dinner menu for a corporate gathering, including gluten-free items."
+        },
+        "processing_timestamp": "2025-07-27T02:19:00.699096"
+    },
+    "extracted_sections": [
+        {
+            "document": "Dinner Ideas - Mains_3.pdf",
+            "section_title": "Vegetable Lasagna",
+            "importance_rank": 1,
+            "page_number": 8
+        },
+        {
+            "document": "Dinner Ideas - Mains_1.pdf",
+            "section_title": "Meatloaf",
+            "importance_rank": 2,
+            "page_number": 13
+        },
+        {
+            "document": "Breakfast Ideas.pdf",
+            "section_title": "Cottage Cheese and Veggie Bowl",
+            "importance_rank": 3,
+            "page_number": 16
+        },
+        {
+            "document": "Lunch Ideas.pdf",
+            "section_title": "Mediterranean Chickpea Salad",
+            "importance_rank": 4,
+            "page_number": 6
+        },
+        {
+            "document": "Dinner Ideas - Mains_2.pdf",
+            "section_title": "Chicken Fajitas",
+            "importance_rank": 5,
+            "page_number": 7
+        }
+    ],
+    "subsection_analysis": [
+        {
+            "document": "Dinner Ideas - Mains_3.pdf",
+            "refined_text": "Ingredients: • 9 lasagna noodles, cooked   • 1 small onion, diced   • 2 cloves garlic, minced   • 1 zucchini, sliced   • 1 bell pepper, diced   • 1 cup spinach, chopped   • 1 jar (24 ounces) marinara sauce   • 1 can (15 ounces) ricotta cheese   • 1 egg   • 1 cup shredded mozzarella cheese   • 1/4 cup grated Parmesan cheese   • 2 tablespoons olive oil   • Salt and pepper to taste. Instructions: • Preheat oven to 375°F (190°C).   • In a skillet, heat olive oil over medium heat. Sauté onion , garlic, zucchini, and bell pepper  until tender. Add spinach and cook until wilted.   • In a bowl, mix ricotta cheese, egg, salt, and pepper.   • In a baking dish, spread a thin layer of marinara sauce. Layer 3 noodles, half the ricotta  mixture, half the vegetabl es, and 1/3 of the mozzarella. Repeat layers.   • Top with remaining noodles, marinara sauce, mozzarella, and Parmesan cheese.   • Cover with foil and bake for 25 minutes. Remove foil and bake for another 20 minutes  until bubbly.   • Let stand for 10 minutes before se rving.",
+            "page_number": 8
+        },
+        {
+            "document": "Dinner Ideas - Mains_1.pdf",
+            "refined_text": "Ingredients: • 1 pound ground beef   • 1/2 pound ground pork   • 1 small onion, diced   • 2 cloves garlic, minced   • 1/2 cup breadcrumbs   • 1/4 cup milk   • 1 egg, beaten   • 1/4 cup ketchup   • 1 tablespoon Worcestershire sauce   • 1 teaspoon salt   • 1/2 teaspoon pepper. Instructions: • Preheat oven to 350°F (175°C).   • In a large bowl, mix ground beef, ground pork, diced onion, minced garlic, breadcrumbs,  milk, beaten egg, ketchup, Worcestershire sauce, salt, and pepper.   • Shape the mixture into a loaf and place in a baking dish.   • Bake for 1 hour until cooked through.   • Let rest before slicing and serving.",
+            "page_number": 13
+        },
+        {
+            "document": "Breakfast Ideas.pdf",
+            "refined_text": "Ingredients: • 1 cup cottage cheese   • 1/4 cup diced cucumber   • 1/4 cup cherry tomatoes, halved   • 1/4 cup diced bell pepper   • Salt and pepper to taste. Instructions: • In a bowl, combine cottage cheese, cucumber, cherry tomatoes, and bell pepper.   • Season with salt and pepper.   • Serve immediately.",
+            "page_number": 16
+        },
+        {
+            "document": "Lunch Ideas.pdf",
+            "refined_text": "Ingredients: • 1 can chickpeas, drained and rinsed   • 1/2 cup cherry tomatoes, halved  • 1/2 cucumber, diced   • 1/4 cup red onion, finely chopped   • 1/4 cup feta cheese, crumbled   • 2 tablespoons olive oil   • 1 tablespoon lemon juice   • Salt and pepper to taste. Instructions: • In a large bowl, combine the chickpeas, tomatoes, cucumber, red onion, and feta  cheese.   • Drizzle with olive oil and lemon juice.   • Season with salt and pepper, then toss to combine.",
+            "page_number": 6
+        },
+        {
+            "document": "Dinner Ideas - Mains_2.pdf",
+            "refined_text": "Ingredients: • 1 pound chicken breast, sliced   • 1 bell pepper, sliced   • 1 small onion, sliced   • 2 tablespoons fajita seasoning   • 2 tablespoons vegetable oil   • Tortillas for serving   • Shredded lettuce, diced tomatoes, shredded cheese, sour cream, and salsa for toppings. Instructions: • In a large skillet, heat vegetabl e oil over medium heat.   • Cook sliced chicken, bell pepper, and onion until chicken is cooked through and  vegetables are tender.   • Stir in fajita seasoning and cook for an additional 2 minutes.   • Serve chicken and vegetables in tortillas with desired toppings.",
+            "page_number": 7
+        }
+    ]
+}
