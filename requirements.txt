@@ -1,1 +1,4 @@
-PyMuPDF==1.24.1
+# It is highly recommended to use Python 3.12 for this project.
+scikit-learn==1.5.0
+pdfplumber==0.11.1
+thefuzz
